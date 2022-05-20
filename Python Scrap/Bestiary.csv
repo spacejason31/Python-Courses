@@ -1,0 +1,1071 @@
+,Creature,Level,Category,TypeTrait,Rarity,Page,Reference
+0,Animated broom -,-1,Animated object,Construct,Common,20, Bestiary 1
+1,Bloodseeker -,-1,Bloodseeker,Animal,Common,42, Bestiary 1
+2,Eagle -,-1,Eagle,Animal,Common,141, Bestiary 1
+3,Flash beetle -,-1,Beetle,Animal,Common,41, Bestiary 1
+4,Giant centipede -,-1,Centipede,Animal,Common,61, Bestiary 1
+5,Giant rat -,-1,Rat,Animal,Common,276, Bestiary 1
+6,Goblin warrior -,-1,Goblin,Humanoid,Common,180, Bestiary 1
+7,Guard dog -,-1,Dog,Animal,Common,102, Bestiary 1
+8,Kobold warrior -,-1,Kobold,Humanoid,Common,212, Bestiary 1
+9,Mitflit –,1,Gremlin,Fey,Common,192, Bestiary 1
+10,Skeleton guard –,1,Skeleton,Undead,Common,298, Bestiary 1
+11,Sprite –,1,Sprite,Fey,Common,308, Bestiary 1
+12,Viper –,1,Snake,Animal,Common,302, Bestiary 1
+13,Zombie shambler –,1,Zombie,Undead,Common,340, Bestiary 1
+14,Duergar sharpshooter ,0,Duergar,Humanoid,Common,138, Bestiary 1
+15,Homunculus ,0,Homunculus,Construct,Common,208, Bestiary 1
+16,Leaf leshy ,0,Leshy,Plant,Common,218, Bestiary 1
+17,Lemure ,0,Devil,Fiend,Common,86, Bestiary 1
+18,Orc brute ,0,Orc,Humanoid,Common,256, Bestiary 1
+19,Pugwampi ,0,Gremlin,Fey,Common,193, Bestiary 1
+20,Riding pony ,0,Horse,Animal,Common,209, Bestiary 1
+21,Spider swarm ,0,Spider,Animal,Common,306, Bestiary 1
+22,Arbiter ,1,Aeon,Monitor,Common,8, Bestiary 1
+23,Air mephit ,1,"Elemental, mephit",Elemental,Common,150, Bestiary 1
+24,Ball python ,1,Snake,Animal,Common,302, Bestiary 1
+25,Boggard scout ,1,Boggard,Humanoid,Common,44, Bestiary 1
+26,Cacodaemon ,1,Daemon,Fiend,Common,70, Bestiary 1
+27,Caligni dancer ,1,Caligni,Humanoid,Common,50, Bestiary 1
+28,Cassisian ,1,Angel,Celestial,Common,16, Bestiary 1
+29,Catfolk pouncer ,1,Catfolk,Humanoid,Common,54, Bestiary 1
+30,Deep gnome scout ,1,Deep gnome,Humanoid,Common,74, Bestiary 1
+31,Drow fighter ,1,Drow,Humanoid,Common,136, Bestiary 1
+32,Duergar bombardier ,1,Duergar,Humanoid,Common,138, Bestiary 1
+33,Earth mephit ,1,"Elemental, mephit",Elemental,Common,150, Bestiary 1
+34,Electric eel ,1,Eel,Animal,Common,142, Bestiary 1
+35,Fire mephit ,1,"Elemental, mephit",Elemental,Common,150, Bestiary 1
+36,Ghoul ,1,Ghoul,Undead,Common,169, Bestiary 1
+37,Giant gecko ,1,Lizard,Animal,Common,228, Bestiary 1
+38,Goblin commando ,1,Goblin,Humanoid,Common,180, Bestiary 1
+39,Goblin dog ,1,Goblin dog,Animal,Common,182, Bestiary 1
+40,Goblin pyro ,1,Goblin,Humanoid,Common,181, Bestiary 1
+41,Goblin war chanter ,1,Goblin,Humanoid,Common,181, Bestiary 1
+42,Gourd leshy ,1,Leshy,Plant,Common,218, Bestiary 1
+43,Grig ,1,Sprite,Fey,Common,308, Bestiary 1
+44,Hobgoblin soldier ,1,Hobgoblin,Humanoid,Common,206, Bestiary 1
+45,Hunting spider ,1,Spider,Animal,Common,306, Bestiary 1
+46,Hyena ,1,Hyena,Animal,Common,211, Bestiary 1
+47,Imp ,1,Devil,Fiend,Common,87, Bestiary 1
+48,Jinkin ,1,Gremlin,Fey,Common,193, Bestiary 1
+49,Kobold scout ,1,Kobold,Humanoid,Common,213, Bestiary 1
+50,Lantern archon ,1,Archon,Celestial,Common,26, Bestiary 1
+51,Lizardfolk defender ,1,Lizardfolk,Humanoid,Common,230, Bestiary 1
+52,Lizardfolk scout ,1,Lizardfolk,Humanoid,Common,231, Bestiary 1
+53,Lyrakien ,1,Azata,Celestial,Common,30, Bestiary 1
+54,Merfolk warrior ,1,Merfolk,Humanoid,Common,235, Bestiary 1
+55,Naiad ,1,Nymph,Fey,Common,246, Bestiary 1
+56,Nosoi ,1,Psychopomp,Monitor,Common,270, Bestiary 1
+57,Orc warrior ,1,Orc,Humanoid,Common,257, Bestiary 1
+58,Plague zombie ,1,Zombie,Undead,Common,340, Bestiary 1
+59,Quasit ,1,Demon,Fiend,Common,76, Bestiary 1
+60,Rat swarm ,1,Rat,Animal,Common,276, Bestiary 1
+61,Reefclaw ,1,Reefclaw,Aberration,Common,279, Bestiary 1
+62,Riding dog ,1,Dog,Animal,Common,102, Bestiary 1
+63,Riding horse ,1,Horse,Animal,Common,209, Bestiary 1
+64,Sewer ooze ,1,Ooze,Ooze,Common,254, Bestiary 1
+65,Vampire bat swarm ,1,Bat,Animal,Common,39, Bestiary 1
+66,Velociraptor ,1,Dinosaur,Animal,Common,96, Bestiary 1
+67,Voidworm ,1,Protean,Monitor,Common,266, Bestiary 1
+68,War pony ,1,Horse,Animal,Common,209, Bestiary 1
+69,Water mephit ,1,"Elemental, mephit",Elemental,Common,151, Bestiary 1
+70,Wolf ,1,Wolf,Animal,Common,334, Bestiary 1
+71,Xulgath warrior ,1,Xulgath,Humanoid,Common,336, Bestiary 1
+72,Animated armor ,2,Animated object,Construct,Common,20, Bestiary 1
+73,Boar ,2,Boar,Animal,Common,43, Bestiary 1
+74,Boggard warrior ,2,Boggard,Humanoid,Common,44, Bestiary 1
+75,Bugbear thug ,2,Bugbear,Humanoid,Common,47, Bestiary 1
+76,Caligni creeper ,2,Caligni,Humanoid,Common,50, Bestiary 1
+77,Crocodile ,2,Crocodile,Animal,Common,67, Bestiary 1
+78,Deep gnome warrior ,2,Deep Gnome,Humanoid,Common,75, Bestiary 1
+79,Deinonychus ,2,Dinosaur,Animal,Common,96, Bestiary 1
+80,Dero stalker ,2,Dero,Humanoid,Common,84, Bestiary 1
+81,Dhampir wizard ,2,Dhampir,Humanoid,Common,95, Bestiary 1
+82,Drow rogue ,2,Drow,Humanoid,Common,137, Bestiary 1
+83,Duergar taskmaster ,2,Duergar,Humanoid,Common,139, Bestiary 1
+84,Faerie dragon ,2,Faerie dragon,Dragon,Uncommon,157, Bestiary 1
+85,Fungus leshy ,2,Leshy,Plant,Common,219, Bestiary 1
+86,Ghast ,2,Ghoul,Undead,Common,169, Bestiary 1
+87,Giant bat ,2,Bat,Animal,Common,39, Bestiary 1
+88,Giant Monitor lizard ,2,Lizard,Animal,Common,228, Bestiary 1
+89,Giant viper ,2,Snake,Animal,Common,303, Bestiary 1
+90,Gnoll hunter ,2,Gnoll,Humanoid,Common,178, Bestiary 1
+91,Kobold dragon mage ,2,Kobold,Humanoid,Common,213, Bestiary 1
+92,Leopard ,2,Cat,Animal,Common,52, Bestiary 1
+93,Lizardfolk stargazer ,2,Lizardfolk,Humanoid,Common,231, Bestiary 1
+94,Merfolk wavecaller ,2,Merfolk,Humanoid,Common,235, Bestiary 1
+95,Orc warchief ,2,Orc,Humanoid,Common,257, Bestiary 1
+96,Pteranodon ,2,Pterosaur,Animal,Common,272, Bestiary 1
+97,Sea devil scout ,2,Sea devil,Humanoid,Common,286, Bestiary 1
+98,Sinspawn ,2,Sinspawn,Aberration,Common,296, Bestiary 1
+99,Skeletal champion ,2,Skeleton,Undead,Common,298, Bestiary 1
+100,Skeletal horse ,2,Skeleton,Undead,Common,299, Bestiary 1
+101,Slurk ,2,Slurk,Animal,Common,301, Bestiary 1
+102,Soulbound doll ,2,Soulbound doll,Construct,Common,304, Bestiary 1
+103,Tengu ,2,Tengu,Humanoid,Common,310, Bestiary 1
+104,War horse ,2,Horse,Animal,Common,209, Bestiary 1
+105,Warg ,2,Warg,Beast,Common,322, Bestiary 1
+106,Wererat ,2,Werecreature,Humanoid,Common,329, Bestiary 1
+107,Xulgath skulker ,2,Xulgath,Humanoid,Common,337, Bestiary 1
+108,Zombie brute ,2,Zombie,Undead,Common,341, Bestiary 1
+109,Animated statue ,3,Animated object,Construct,Common,21, Bestiary 1
+110,Ankhrav ,3,Ankhrav,Animal,Common,22, Bestiary 1
+111,Boggard swampseer ,3,Boggard,Humanoid,Common,45, Bestiary 1
+112,Brine shark ,3,"Elemental, water",Elemental,Common,152, Bestiary 1
+113,Bugbear tormentor ,3,Bugbear,Humanoid,Common,47, Bestiary 1
+114,Bunyip ,3,Bunyip,Animal,Common,49, Bestiary 1
+115,Centaur ,3,Centaur,Beast,Common,60, Bestiary 1
+116,Centipede swarm ,3,Centipede,Animal,Common,61, Bestiary 1
+117,Changeling exile ,3,Changeling,Humanoid,Common,62, Bestiary 1
+118,Cinder rat ,3,"Elemental, fire",Elemental,Common,148, Bestiary 1
+119,Cockatrice ,3,Cockatrice,Beast,Common,66, Bestiary 1
+120,Dero strangler ,3,Dero,Humanoid,Common,84, Bestiary 1
+121,Dire wolf ,3,Wolf,Animal,Common,334, Bestiary 1
+122,Doppelganger ,3,Doppelganger,Humanoid,Uncommon,103, Bestiary 1
+123,Drow priestess ,3,Drow,Humanoid,Common,137, Bestiary 1
+124,Dryad ,3,Nymph,Fey,Common,246, Bestiary 1
+125,Gelatinous cube ,3,Ooze,Ooze,Common,254, Bestiary 1
+126,Giant eagle ,3,Eagle,Beast,Common,141, Bestiary 1
+127,Giant mantis ,3,Mantis,Animal,Common,233, Bestiary 1
+128,Giant scorpion ,3,Scorpion,Animal,Common,285, Bestiary 1
+129,Giant wasp ,3,Wasp,Animal,Common,324, Bestiary 1
+130,Gnoll cultist ,3,Gnoll,Humanoid,Common,179, Bestiary 1
+131,Gorilla ,3,Ape,Animal,Common,23, Bestiary 1
+132,Grizzly bear ,3,Bear,Animal,Common,40, Bestiary 1
+133,Grothlut ,3,Fleshwarp,Aberration,Common,158, Bestiary 1
+134,Hell hound ,3,Hell hound,Fiend,Common,205, Bestiary 1
+135,Hyaenodon ,3,Hyena,Animal,Common,211, Bestiary 1
+136,Lion ,3,Cat,Animal,Common,52, Bestiary 1
+137,Ogre warrior ,3,Ogre,Giant,Common,252, Bestiary 1
+138,Pegasus ,3,Pegasus,Beast,Common,260, Bestiary 1
+139,River drake ,3,Drake,Dragon,Common,131, Bestiary 1
+140,Rust monster ,3,Rust monster,Aberration,Common,283, Bestiary 1
+141,Sea hag ,3,Hag,Humanoid,Common,200, Bestiary 1
+142,Skeletal giant ,3,Skeleton,Undead,Common,299, Bestiary 1
+143,Snapping flytrap ,3,Flytrap,Plant,Common,160, Bestiary 1
+144,Sod hound ,3,"Elemental, earth",Elemental,Common,146, Bestiary 1
+145,Tiefling adept ,3,Planar scion,Humanoid,Common,262, Bestiary 1
+146,Unicorn ,3,Unicorn,Fey,Common,316, Bestiary 1
+147,Web lurker ,3,Web lurker,Aberration,Common,325, Bestiary 1
+148,Werewolf ,3,Werecreature,Humanoid,Common,330, Bestiary 1
+149,Wight ,3,Wight,Undead,Common,332, Bestiary 1
+150,Xulgath leader ,3,Xulgath,Humanoid,Common,337, Bestiary 1
+151,Zephyr hawk ,3,"Elemental, air",Elemental,Common,144, Bestiary 1
+152,Arboreal warden ,4,Arboreal,Plant,Common,24, Bestiary 1
+153,Barghest ,4,Barghest,Fiend,Common,36, Bestiary 1
+154,Caligni stalker ,4,Caligni,Humanoid,Common,51, Bestiary 1
+155,Daeodon ,4,Boar,Animal,Common,43, Bestiary 1
+156,Duskwalker ghost hunter ,4,Planar scion,Humanoid,Common,262, Bestiary 1
+157,Faceless stalker ,4,Alghollthu,Aberration,Common,13, Bestiary 1
+158,Gancanagh ,4,Azata,Celestial,Common,31, Bestiary 1
+159,Gargoyle ,4,Gargoyle,Beast,Common,161, Bestiary 1
+160,Ghost commoner ,4,Ghost,Undead,Common,167, Bestiary 1
+161,Giant stag beetle ,4,Beetle,Animal,Common,41, Bestiary 1
+162,Gnoll sergeant ,4,Gnoll,Humanoid,Common,179, Bestiary 1
+163,Great white shark ,4,Shark,Animal,Common,291, Bestiary 1
+164,Green hag ,4,Hag,Humanoid,Common,201, Bestiary 1
+165,Griffon ,4,Griffon,Animal,Common,194, Bestiary 1
+166,Hobgoblin archer ,4,Hobgoblin,Humanoid,Common,207, Bestiary 1
+167,Horned archon ,4,Archon,Celestial,Common,27, Bestiary 1
+168,Janni ,4,Genie,Elemental,Common,162, Bestiary 1
+169,Mimic ,4,Mimic,Aberration,Common,236, Bestiary 1
+170,Minotaur ,4,Minotaur,Humanoid,Common,237, Bestiary 1
+171,Ogre glutton ,4,Ogre,Giant,Common,252, Bestiary 1
+172,Otyugh ,4,Otyugh,Aberration,Common,258, Bestiary 1
+173,Owlbear ,4,Owlbear,Beast,Common,259, Bestiary 1
+174,Pixie ,4,Sprite,Fey,Common,310, Bestiary 1
+175,Poracha ,4,Poracha,Beast,Uncommon,265, Bestiary 1
+176,Ratfolk grenadier ,4,Ratfolk,Humanoid,Common,277, Bestiary 1
+177,Satyr ,4,Satyr,Fey,Common,284, Bestiary 1
+178,Scorpion swarm ,4,Scorpion,Animal,Common,285, Bestiary 1
+179,Sea devil brute ,4,Sea devil,Humanoid,Common,287, Bestiary 1
+180,Shadow ,4,Shadow,Undead,Common,289, Bestiary 1
+181,Tiger ,4,Cat,Animal,Common,52, Bestiary 1
+182,Vampire spawn rogue ,4,Vampire,Undead,Common,320, Bestiary 1
+183,Wasp swarm ,4,Wasp,Animal,Common,324, Bestiary 1
+184,Werebear ,4,Werecreature,Humanoid,Uncommon,330, Bestiary 1
+185,Aasimar redeemer ,5,Planar scion,Humanoid,Common,263, Bestiary 1
+186,Barbazu ,5,Devil,Fiend,Common,88, Bestiary 1
+187,Basilisk ,5,Basilisk,Beast,Common,38, Bestiary 1
+188,Cloaker ,5,Cloaker,Aberration,Common,65, Bestiary 1
+189,Cyclops ,5,Cyclops,Giant,Uncommon,68, Bestiary 1
+190,Dandasuka ,5,Rakshasa,Fiend,Common,274, Bestiary 1
+191,Deep gnome rockwarden ,5,Deep gnome,Humanoid,Common,75, Bestiary 1
+192,Dero magister ,5,Dero,Humanoid,Uncommon,85, Bestiary 1
+193,Djinni ,5,Genie,Elemental,Uncommon,163, Bestiary 1
+194,Ether spider ,5,Ether spider,Ethereal,Common,155, Bestiary 1
+195,Flame drake ,5,Drake,Dragon,Common,131, Bestiary 1
+196,Giant frilled lizard ,5,Lizard,Animal,Common,229, Bestiary 1
+197,Giant moray eel ,5,Eel,Animal,Common,142, Bestiary 1
+198,Gibbering mouther ,5,Gibbering mouther,Aberration,Common,176, Bestiary 1
+199,Harpy ,5,Harpy,Humanoid,Common,204, Bestiary 1
+200,Living landslide ,5,"Elemental, earth",Elemental,Common,146, Bestiary 1
+201,Living waterfall ,5,"Elemental, water",Elemental,Common,152, Bestiary 1
+202,Living whirlwind ,5,"Elemental, air",Elemental,Common,144, Bestiary 1
+203,Living wildfire ,5,"Elemental, fire",Elemental,Common,148, Bestiary 1
+204,Ochre jelly ,5,Ooze,Ooze,Common,254, Bestiary 1
+205,Poltergeist ,5,Poltergeist,Undead,Common,264, Bestiary 1
+206,Redcap ,5,Redcap,Fey,Common,278, Bestiary 1
+207,Troll ,5,Troll,Giant,Common,314, Bestiary 1
+208,Winter wolf ,5,Warg,Beast,Common,322, Bestiary 1
+209,Yeti ,5,Yeti,Humanoid,Uncommon,338, Bestiary 1
+210,Awakened tree ,6,Arboreal,Plant,Common,25, Bestiary 1
+211,Ankylosaurus ,6,Dinosaur,Animal,Common,97, Bestiary 1
+212,Annis hag ,6,Hag,Humanoid,Common,201, Bestiary 1
+213,Cave bear ,6,Bear,Animal,Common,40, Bestiary 1
+214,Ceustodaemon ,6,Daemon,Fiend,Common,71, Bestiary 1
+215,Choral ,6,Angel,Celestial,Common,16, Bestiary 1
+216,Drider ,6,Fleshwarp,Aberration,Common,159, Bestiary 1
+217,Elananx ,6,Elananx,Fey,Common,143, Bestiary 1
+218,Ettin ,6,Ettin,Giant,Common,156, Bestiary 1
+219,Giant tarantula ,6,Spider,Animal,Common,307, Bestiary 1
+220,Hobgoblin general ,6,Hobgoblin,Humanoid,Common,207, Bestiary 1
+221,Hydra ,6,Hydra,Beast,Common,210, Bestiary 1
+222,Jungle drake ,6,Drake,Dragon,Common,132, Bestiary 1
+223,Lamia ,6,Lamia,Beast,Common,216, Bestiary 1
+224,Manticore ,6,Manticore,Beast,Common,232, Bestiary 1
+225,Mummy guardian ,6,Mummy,Undead,Common,240, Bestiary 1
+226,Nightmare ,6,Nightmare,Fiend,Common,244, Bestiary 1
+227,Sea devil baron ,6,Sea devil,Humanoid,Common,287, Bestiary 1
+228,Shambler ,6,Shambler,Plant,Common,290, Bestiary 1
+229,Smilodon ,6,Cat,Animal,Common,53, Bestiary 1
+230,Vampire count ,6,Vampire,Undead,Common,320, Bestiary 1
+231,Will-o’-wisp ,6,Will-o’-wisp,Aberration,Common,333, Bestiary 1
+232,Wraith ,6,Wraith,Undead,Common,335, Bestiary 1
+233,Wyvern ,6,Drake,Dragon,Common,133, Bestiary 1
+234,Young white dragon ,6,"Dragon, chromatic",Dragon,Common,113, Bestiary 1
+235,Zombie hulk ,6,Zombie,Undead,Common,341, Bestiary 1
+236,Alghollthu master ,7,Alghollthu,Aberration,Uncommon,14, Bestiary 1
+237,Black pudding ,7,Ooze,Ooze,Common,255, Bestiary 1
+238,Chuul ,7,Chuul,Aberration,Common,64, Bestiary 1
+239,Dark naga ,7,Naga,Aberration,Uncommon,242, Bestiary 1
+240,Dullahan ,7,Dullahan,Undead,Uncommon,140, Bestiary 1
+241,Elephant ,7,Elephant,Animal,Common,154, Bestiary 1
+242,Frost drake ,7,Drake,Dragon,Common,134, Bestiary 1
+243,Giant animated statue ,7,Animated object,Construct,Common,21, Bestiary 1
+244,Greater barghest ,7,Barghest,Fiend,Uncommon,36, Bestiary 1
+245,Hill giant ,7,Giant,Giant,Common,170, Bestiary 1
+246,Invisible stalker ,7,"Elemental, air",Elemental,Common,144, Bestiary 1
+247,Legion archon ,7,Archon,Celestial,Common,28, Bestiary 1
+248,Lillend ,7,Azata,Celestial,Common,32, Bestiary 1
+249,Medusa ,7,Medusa,Humanoid,Common,234, Bestiary 1
+250,Naiad queen ,7,Nymph,Fey,Uncommon,248, Bestiary 1
+251,Naunet ,7,Protean,Monitor,Common,267, Bestiary 1
+252,Ogre boss ,7,Ogre,Giant,Common,253, Bestiary 1
+253,Quatoid ,7,"Elemental, water",Elemental,Common,152, Bestiary 1
+254,Quetzalcoatlus ,7,Pterosaur,Animal,Common,272, Bestiary 1
+255,Remorhaz ,7,Remorhaz,Beast,Uncommon,280, Bestiary 1
+256,Salamander ,7,"Elemental, fire",Elemental,Common,148, Bestiary 1
+257,Shaitan ,7,Genie,Elemental,Uncommon,163, Bestiary 1
+258,Skeletal hulk ,7,Skeleton,Undead,Common,299, Bestiary 1
+259,Stegosaurus ,7,Dinosaur,Animal,Common,98, Bestiary 1
+260,Succubus ,7,Demon,Fiend,Common,77, Bestiary 1
+261,Xorn ,7,"Elemental, earth",Elemental,Common,146, Bestiary 1
+262,Young black dragon ,7,"Dragon, chromatic",Dragon,Common,105, Bestiary 1
+263,Young brass dragon ,7,"Dragon, metallic",Dragon,Common,117, Bestiary 1
+264,Axiomite ,8,Aeon,Monitor,Common,9, Bestiary 1
+265,Arboreal regent ,8,Arboreal,Plant,Common,25, Bestiary 1
+266,Balisse ,8,Angel,Celestial,Common,18, Bestiary 1
+267,Brain collector ,8,Brain collector,Aberration,Uncommon,46, Bestiary 1
+268,Bulette ,8,Bulette,Animal,Common,48, Bestiary 1
+269,Chimera ,8,Chimera,Beast,Uncommon,63, Bestiary 1
+270,Desert drake ,8,Drake,Dragon,Common,135, Bestiary 1
+271,Erinys ,8,Devil,Fiend,Common,89, Bestiary 1
+272,Flesh golem ,8,Golem,Construct,Uncommon,184, Bestiary 1
+273,Giant anaconda ,8,Snake,Animal,Common,303, Bestiary 1
+274,Giant octopus ,8,"Octopus, giant",Animal,Common,250, Bestiary 1
+275,Hive mother ,8,Ankhrav,Animal,Uncommon,22, Bestiary 1
+276,Krooth ,8,Krooth,Animal,Common,215, Bestiary 1
+277,Lamia matriarch ,8,Lamia,Beast,Common,217, Bestiary 1
+278,Megaprimatus ,8,Ape,Animal,Common,23, Bestiary 1
+279,Sphinx ,8,Sphinx,Beast,Common,305, Bestiary 1
+280,Stone giant ,8,Giant,Giant,Common,170, Bestiary 1
+281,Triceratops ,8,Dinosaur,Animal,Common,98, Bestiary 1
+282,Young copper dragon ,8,"Dragon, metallic",Dragon,Common,121, Bestiary 1
+283,Young green dragon ,8,"Dragon, chromatic",Dragon,Common,109, Bestiary 1
+284,Alchemical golem ,9,Golem,Construct,Uncommon,185, Bestiary 1
+285,Deinosuchus ,9,Crocodile,Animal,Common,67, Bestiary 1
+286,Dragon turtle ,9,Dragon turtle,Dragon,Common,128, Bestiary 1
+287,Drakauthix ,9,Drakauthix,Fungus,Common,129, Bestiary 1
+288,Efreeti ,9,Genie,Elemental,Uncommon,164, Bestiary 1
+289,Firewyrm ,9,"Elemental, fire",Elemental,Common,149, Bestiary 1
+290,Frost giant ,9,Giant,Giant,Common,171, Bestiary 1
+291,Leukodaemon ,9,Daemon,Fiend,Common,71, Bestiary 1
+292,Marid ,9,Genie,Elemental,Uncommon,165, Bestiary 1
+293,Megalodon ,9,Shark,Animal,Uncommon,291, Bestiary 1
+294,Mummy pharaoh ,9,Mummy,Undead,Rare,240, Bestiary 1
+295,Nessian warhound ,9,Hell hound,Fiend,Common,205, Bestiary 1
+296,Night hag ,9,Hag,Fiend,Common,202, Bestiary 1
+297,Roc ,9,Roc,Animal,Common,281, Bestiary 1
+298,Stone mauler ,9,"Elemental, earth",Elemental,Common,147, Bestiary 1
+299,Storm lord ,9,"Elemental, air",Elemental,Common,145, Bestiary 1
+300,Tidal master ,9,"Elemental, water",Elemental,Common,153, Bestiary 1
+301,Vampire mastermind ,9,Vampire,Undead,Uncommon,321, Bestiary 1
+302,Vrock ,9,Demon,Fiend,Common,78, Bestiary 1
+303,Young blue dragon ,9,"Dragon, chromatic",Dragon,Common,107, Bestiary 1
+304,Young bronze dragon ,9,"Dragon, metallic",Dragon,Common,119, Bestiary 1
+305,Adult white dragon ,10,"Dragon, chromatic",Dragon,Common,114, Bestiary 1
+306,Brontosaurus ,10,Dinosaur,Animal,Common,99, Bestiary 1
+307,Clay golem ,10,Golem,Construct,Uncommon,186, Bestiary 1
+308,Phistophilus ,10,Devil,Fiend,Common,89, Bestiary 1
+309,Dezullon ,10,Dezullon,Plant,Common,94, Bestiary 1
+310,Fire giant ,10,Giant,Giant,Common,172, Bestiary 1
+311,Ghost mage ,10,Ghost,Undead,Common,167, Bestiary 1
+312,Giant flytrap ,10,Flytrap,Plant,Common,160, Bestiary 1
+313,Graveknight ,10,Graveknight,Undead,Common,190, Bestiary 1
+314,Guardian naga ,10,Naga,Aberration,Uncommon,243, Bestiary 1
+315,Gug ,10,Gug,Aberration,Common,198, Bestiary 1
+316,Mammoth ,10,Elephant,Animal,Common,154, Bestiary 1
+317,Nilith ,10,Nilith,Aberration,Common,245, Bestiary 1
+318,Ofalth ,10,Ofalth,Aberration,Common,251, Bestiary 1
+319,Raja rakshasa ,10,Rakshasa,Fiend,Common,275, Bestiary 1
+320,Roper ,10,Roper,Aberration,Uncommon,282, Bestiary 1
+321,Shield archon ,10,Archon,Celestial,Common,29, Bestiary 1
+322,Troll king ,10,Troll,Giant,Common,314, Bestiary 1
+323,Tyrannosaurus ,10,Dinosaur,Animal,Common,100, Bestiary 1
+324,Young red dragon ,10,"Dragon, chromatic",Dragon,Common,112, Bestiary 1
+325,Young silver dragon ,10,"Dragon, metallic",Dragon,Common,126, Bestiary 1
+326,Adult black dragon ,11,"Dragon, chromatic",Dragon,Common,105, Bestiary 1
+327,Adult brass dragon ,11,"Dragon, metallic",Dragon,Common,118, Bestiary 1
+328,Cloud giant ,11,Giant,Giant,Common,173, Bestiary 1
+329,Deadly mantis ,11,Mantis,Animal,Common,233, Bestiary 1
+330,Elemental avalanche ,11,"Elemental, earth",Elemental,Common,147, Bestiary 1
+331,Elemental hurricane ,11,"Elemental, air",Elemental,Common,145, Bestiary 1
+332,Elemental inferno ,11,"Elemental, fire",Elemental,Common,149, Bestiary 1
+333,Elemental tsunami ,11,"Elemental, water",Elemental,Common,153, Bestiary 1
+334,Goliath spider ,11,Spider,Animal,Common,307, Bestiary 1
+335,Greater nightmare ,11,Nightmare,Fiend,Common,244, Bestiary 1
+336,Stone golem ,11,Golem,Construct,Uncommon,187, Bestiary 1
+337,Young gold dragon ,11,"Dragon, metallic",Dragon,Common,124, Bestiary 1
+338,Adult copper dragon ,12,"Dragon, metallic",Dragon,Common,122, Bestiary 1
+339,Adult green dragon ,12,"Dragon, chromatic",Dragon,Common,110, Bestiary 1
+340,Cauthooj ,12,Cauthooj,Beast,Common,55, Bestiary 1
+341,Gimmerling ,12,Gimmerling,Fey,Uncommon,177, Bestiary 1
+342,Gogiteth ,12,Gogiteth,Aberration,Common,183, Bestiary 1
+343,Great cyclops ,12,Cyclops,Giant,Uncommon,69, Bestiary 1
+344,Kolyarut ,12,Aeon,Monitor,Common,10, Bestiary 1
+345,Lich ,12,Lich,Undead,Rare,220, Bestiary 1
+346,Sea serpent ,12,Sea serpent,Animal,Uncommon,288, Bestiary 1
+347,Shuln ,12,Shuln,Beast,Rare,294, Bestiary 1
+348,Shining child ,12,Shining child,Astral,Common,292, Bestiary 1
+349,Adult blue dragon ,13,"Dragon, chromatic",Dragon,Common,108, Bestiary 1
+350,Adult bronze dragon ,13,"Dragon, metallic",Dragon,Common,120, Bestiary 1
+351,Dryad queen ,13,Nymph,Fey,Uncommon,249, Bestiary 1
+352,Ghaele ,13,Azata,Celestial,Common,33, Bestiary 1
+353,Glabrezu ,13,Demon,Fiend,Common,79, Bestiary 1
+354,Gelugon ,13,Devil,Fiend,Common,91, Bestiary 1
+355,Iron golem ,13,Golem,Construct,Uncommon,188, Bestiary 1
+356,Purple worm ,13,Cave worm,Beast,Common,56, Bestiary 1
+357,Storm giant ,13,Giant,Giant,Common,174, Bestiary 1
+358,Adult red dragon ,14,"Dragon, chromatic",Dragon,Common,112, Bestiary 1
+359,Adult silver dragon ,14,"Dragon, metallic",Dragon,Common,126, Bestiary 1
+360,Astral deva ,14,Angel,Celestial,Common,18, Bestiary 1
+361,Crag linnorm ,14,Linnorm,Dragon,Uncommon,224, Bestiary 1
+362,Grikkitog ,14,Grikkitog,Aberration,Common,195, Bestiary 1
+363,Veiled master ,14,Alghollthu,Aberration,Rare,14, Bestiary 1
+364,Uthul ,14,Uthul,Elemental,Common,317, Bestiary 1
+365,Adult gold dragon ,15,"Dragon, metallic",Dragon,Common,124, Bestiary 1
+366,Ancient white dragon ,15,"Dragon, chromatic",Dragon,Uncommon,115, Bestiary 1
+367,Azure worm ,15,Cave worm,Animal,Uncommon,57, Bestiary 1
+368,Demilich ,15,Lich,Undead,Rare,222, Bestiary 1
+369,Morrigna ,15,Psychopomp,Monitor,Common,270, Bestiary 1
+370,Mukradi ,15,Mukradi,Beast,Common,239, Bestiary 1
+371,Phoenix ,15,Phoenix,Beast,Rare,261, Bestiary 1
+372,Quelaunt ,15,Quelaunt,Aberration,Common,273, Bestiary 1
+373,Wemmuth ,15,Wemmuth,Plant,Common,326, Bestiary 1
+374,Ancient black dragon ,16,"Dragon, chromatic",Dragon,Uncommon,106, Bestiary 1
+375,Ancient brass dragon ,16,"Dragon, metallic",Dragon,Uncommon,118, Bestiary 1
+376,Astradaemon ,16,Daemon,Fiend,Common,72, Bestiary 1
+377,Lesser death ,16,Grim Reaper,Undead,Rare,197, Bestiary 1
+378,Rune giant ,16,Giant,Giant,Uncommon,174, Bestiary 1
+379,Shemhazian ,16,Demon,Fiend,Common,80, Bestiary 1
+380,Warsworn ,16,Warsworn,Undead,Uncommon,323, Bestiary 1
+381,Zaramuun ,16,Zaramuun,Elemental,Common,339, Bestiary 1
+382,Ancient copper dragon ,17,"Dragon, metallic",Dragon,Uncommon,122, Bestiary 1
+383,Ancient green dragon ,17,"Dragon, chromatic",Dragon,Uncommon,110, Bestiary 1
+384,Banshee ,17,Banshee,Undead,Uncommon,34, Bestiary 1
+385,Ice linnorm ,17,Linnorm,Dragon,Uncommon,225, Bestiary 1
+386,Keketar ,17,Protean,Monitor,Common,268, Bestiary 1
+387,Marilith ,17,Demon,Fiend,Common,81, Bestiary 1
+388,Wendigo ,17,Wendigo,Beast,Uncommon,327, Bestiary 1
+389,Adamantine golem ,18,Golem,Construct,Rare,188, Bestiary 1
+390,Ancient blue dragon ,18,"Dragon, chromatic",Dragon,Uncommon,108, Bestiary 1
+391,Ancient bronze dragon ,18,"Dragon, metallic",Dragon,Uncommon,120, Bestiary 1
+392,Crimson worm ,18,Cave worm,Beast,Rare,58, Bestiary 1
+393,Kraken ,18,Kraken,Beast,Uncommon,214, Bestiary 1
+394,Shoggoth ,18,Shoggoth,Aberration,Rare,293, Bestiary 1
+395,Simurgh ,18,Simurgh,Beast,Rare,295, Bestiary 1
+396,Skulltaker ,18,Skulltaker,Undead,Uncommon,300, Bestiary 1
+397,Ancient red dragon ,19,"Dragon, chromatic",Dragon,Uncommon,112, Bestiary 1
+398,Ancient silver dragon ,19,"Dragon, metallic",Dragon,Uncommon,127, Bestiary 1
+399,Guthallath ,19,Guthallath,Construct,Rare,199, Bestiary 1
+400,Terotricus ,19,Terotricus,Fungus,Rare,311, Bestiary 1
+401,Ancient gold dragon ,20,"Dragon, metallic",Dragon,Uncommon,125, Bestiary 1
+402,Balor ,20,Demon,Fiend,Common,82, Bestiary 1
+403,Baomal ,20,Baomal,Aberration,Common,35, Bestiary 1
+404,Pit fiend ,20,Devil,Fiend,Common,92, Bestiary 1
+405,Pleroma ,20,Aeon,Monitor,Common,10, Bestiary 1
+406,Tarn linnorm ,20,Linnorm,Dragon,Uncommon,226, Bestiary 1
+407,Grim Reaper ,21,Grim Reaper,Undead,Unique,196, Bestiary 1
+408,Mu spore ,21,Mu spore,Fungus,Common,238, Bestiary 1
+409,Tor linnorm ,21,Linnorm,Dragon,Uncommon,227, Bestiary 1
+410,Treerazer ,25,Treerazer,Fiend,Unique,312, Bestiary 1
+411,Compsognathus –,1,Dinosaur,Animal,Common,80, Bestiary 2
+412,Crawling hand –,1,Crawling hand,Undead,Common,56, Bestiary 2
+413,Raven –,1,Raven,Animal,Common,221, Bestiary 2
+414,Snapping turtle –,1,Turtle,Animal,Common,269, Bestiary 2
+415,Yellow musk thrall –,1,Yellow musk creeper,Plant,Common,300, Bestiary 2
+416,Badger ,0,Badger,Animal,Common,32, Bestiary 2
+417,Blue–ringed octopus ,0,Octopus,Animal,Common,187, Bestiary 2
+418,Bottlenose dolphin ,0,Dolphin,Animal,Common,84, Bestiary 2
+419,Dream spider ,0,Spider,Animal,Common,249, Bestiary 2
+420,Giant maggot ,0,Fly,Animal,Common,120, Bestiary 2
+421,Grindylow ,0,Grindylow,Aberration,Common,138, Bestiary 2
+422,Sea snake ,0,Snake,Animal,Common,245, Bestiary 2
+423,Spear frog ,0,Frog,Animal,Common,121, Bestiary 2
+424,Stingray ,0,Ray,Animal,Common,226, Bestiary 2
+425,Vampire squid ,0,Squid,Animal,Common,254, Bestiary 2
+426,Akata ,1,Akata,Aberration,Rare,13, Bestiary 2
+427,Amoeba swarm ,1,Ooze,Ooze,Common,192, Bestiary 2
+428,Augur ,1,Velstrac,Fiend,Common,280, Bestiary 2
+429,Brownie ,1,Brownie,Fey,Common,44, Bestiary 2
+430,Carbuncle ,1,Carbuncle,Beast,Rare,47, Bestiary 2
+431,Cave scorpion ,1,Scorpion,Animal,Common,234, Bestiary 2
+432,Cythnigot ,1,Qlippoth,Fiend,Uncommon,212, Bestiary 2
+433,Dust mephit ,1,"Elemental, mephit",Elemental,Uncommon,112, Bestiary 2
+434,Fetchling scout ,1,"Fetchling Humanoid,",shadow,Common,117, Bestiary 2
+435,Giant amoeba ,1,Ooze,Ooze,Common,192, Bestiary 2
+436,Giant cockroach ,1,Cockroach,Animal,Common,53, Bestiary 2
+437,Giant fly ,1,Fly,Animal,Common,120, Bestiary 2
+438,Giant frog ,1,Frog,Animal,Common,121, Bestiary 2
+439,Giant solifugid ,1,Solifugid,Animal,Common,246, Bestiary 2
+440,Giant tick ,1,Tick,Animal,Common,260, Bestiary 2
+441,Grippli scout ,1,Grippli,Humanoid,Common,139, Bestiary 2
+442,Hippocampus ,1,Hippocampus,Animal,Common,142, Bestiary 2
+443,Ice mephit ,1,"Elemental, mephit",Elemental,Uncommon,112, Bestiary 2
+444,Ifrit pyrochemist ,1,"Planar scion, geniekin",Humanoid,Common,200, Bestiary 2
+445,Manta ray ,1,Ray,Animal,Common,226, Bestiary 2
+446,Nixie ,1,Nixie,Fey,Common,183, Bestiary 2
+447,Ooze mephit ,1,"Elemental, mephit",Elemental,Uncommon,113, Bestiary 2
+448,Oread guard ,1,"Planar scion, geniekin",Humanoid,Common,200, Bestiary 2
+449,Petitioner ,1,Petitioner,Petitioner,Common,198, Bestiary 2
+450,Reef octopus ,1,Octopus,Animal,Common,187, Bestiary 2
+451,Skulk ,1,Skulk,Humanoid,Common,243, Bestiary 2
+452,Steam mephit ,1,"Elemental, mephit",Elemental,Uncommon,113, Bestiary 2
+453,Suli dune danger ,1,"Planar scion, geniekin",Humanoid,Common,201, Bestiary 2
+454,Sunflower leshy ,1,Leshy,Plant,Common,160, Bestiary 2
+455,Sylph sneak ,1,"Planar scion, geniekin",Humanoid,Common,202, Bestiary 2
+456,Undine hydromancer ,1,"Planar scion, geniekin",Humanoid,Common,203, Bestiary 2
+457,Vexgit ,1,Gremlin,Fey,Common,134, Bestiary 2
+458,Void zombie ,1,Void zombie,Undead,Rare,288, Bestiary 2
+459,Black bear ,2,Bear,Animal,Common,36, Bestiary 2
+460,Blindheim ,2,Blindheim,Animal,Common,39, Bestiary 2
+461,Blink dog ,2,Blink dog,Beast,Uncommon,40, Bestiary 2
+462,Bog strider ,2,Bog strider,Aberration,Uncommon,43, Bestiary 2
+463,Cave fisher ,2,Cave fisher,Animal,Common,49, Bestiary 2
+464,Choker ,2,Choker,Aberration,Common,51, Bestiary 2
+465,Cockroach swarm ,2,Cockroach,Animal,Common,53, Bestiary 2
+466,Draugr ,2,Draugr,Undead,Common,102, Bestiary 2
+467,Ember fox ,2,"Elemental, fire",Elemental,Common,110, Bestiary 2
+468,Giant ant ,2,Ant,Animal,Common,20, Bestiary 2
+469,Giant badger ,2,Badger,Animal,Common,32, Bestiary 2
+470,Giant crab ,2,Crab,Animal,Common,55, Bestiary 2
+471,Giant leech ,2,Leech,Animal,Common,156, Bestiary 2
+472,Giant toad ,2,Toad,Animal,Common,261, Bestiary 2
+473,Hippogriff ,2,Hippogriff,Animal,Common,143, Bestiary 2
+474,Icicle snake ,2,"Elemental, water",Elemental,Common,114, Bestiary 2
+475,Leprechaun ,2,Leprechaun,Fey,Common,158, Bestiary 2
+476,Living boulder ,2,"Elemental, earth",Elemental,Common,108, Bestiary 2
+477,Morlock ,2,Morlock,Humanoid,Common,174, Bestiary 2
+478,Mudwretch ,2,Mudwretch,Elemental,Common,176, Bestiary 2
+479,Nuglub ,2,Gremlin,Fey,Common,135, Bestiary 2
+480,Shadow drake ,2,"Drake Dragon,",shadow,Common,100, Bestiary 2
+481,Shocker lizard ,2,Shocker lizard,Animal,Common,240, Bestiary 2
+482,Slime mold ,2,"Ooze Fungus,",ooze,Common,193, Bestiary 2
+483,Spark bat ,2,"Elemental, air",Elemental,Common,106, Bestiary 2
+484,Tatzlwyrm ,2,Tatzlwyrm,Dragon,Common,256, Bestiary 2
+485,Triton ,2,Triton,Humanoid,Common,263, Bestiary 2
+486,Wereboar ,2,"Werecreature Beast,",humanoid,Common,290, Bestiary 2
+487,Wolverine ,2,Wolverine,Animal,Common,295, Bestiary 2
+488,Yellow musk brute ,2,Yellow musk creeper,Plant,Common,301, Bestiary 2
+489,Yellow musk creeper ,2,Yellow musk creeper,Plant,Common,300, Bestiary 2
+490,Zyss serpentfolk ,2,Serpentfolk,Humanoid,Uncommon,237, Bestiary 2
+491,Aapoph serpentfolk ,3,Serpentfolk,Humanoid,Uncommon,237, Bestiary 2
+492,Akizendri ,3,Protean,Monitor,Common,204, Bestiary 2
+493,Assassin vine ,3,Assassin vine,Plant,Common,26, Bestiary 2
+494,Caligni slayer ,3,Caligni,Humanoid,Uncommon,46, Bestiary 2
+495,Chupacabra ,3,Chupacabra,Beast,Common,52, Bestiary 2
+496,D’ziriak ,3,"D’ziriak Aberration,",shadow,Common,104, Bestiary 2
+497,Esobok ,3,Psychopomp,Monitor,Common,208, Bestiary 2
+498,Fen mosquito swarm ,3,Mosquito,Animal,Common,175, Bestiary 2
+499,Giant chameleon ,3,Lizard,Animal,Common,168, Bestiary 2
+500,Giant dragonfly nymph ,3,Dragonfly,Animal,Common,98, Bestiary 2
+501,Giant whiptail centipede ,3,Centipede,Animal,Common,50, Bestiary 2
+502,Necrophidius ,3,Necrophidius,Construct,Common,180, Bestiary 2
+503,Pachycephalosaurus ,3,Dinosaur,Animal,Common,80, Bestiary 2
+504,Quickling ,3,Quickling,Fey,Uncommon,218, Bestiary 2
+505,Raven swarm ,3,Raven,Animal,Common,221, Bestiary 2
+506,Spriggan bully ,3,Spriggan,Humanoid,Common,252, Bestiary 2
+507,Trollhound ,3,Trollhound,Beast,Common,268, Bestiary 2
+508,Twigjack ,3,"Twigjack Fey,",plant,Common,270, Bestiary 2
+509,Urdefhan warrior ,3,Urdefhan,Humanoid,Common,272, Bestiary 2
+510,Vampiric mist ,3,Vampiric mist,Aberration,Common,278, Bestiary 2
+511,Violet fungus ,3,Violet fungus,Fungus,Common,286, Bestiary 2
+512,Yeth hound ,3,"Yeth hound Beast,",fiend,Common,302, Bestiary 2
+513,Zebub ,3,Devil,Fiend,Common,72, Bestiary 2
+514,Attic whisperer ,4,Attic whisperer,Undead,Common,28, Bestiary 2
+515,Brood leech swarm ,4,Leech,Animal,Common,156, Bestiary 2
+516,Cairn wight ,4,Wight,Undead,Uncommon,292, Bestiary 2
+517,Calathgar ,4,Calathgar,Plant,Common,45, Bestiary 2
+518,Carrion golem ,4,Golem,Construct,Uncommon,128, Bestiary 2
+519,Coil spy ,4,Serpentfolk,Humanoid,Uncommon,238, Bestiary 2
+520,Earthen destrier ,4,"Elemental, earth",Elemental,Common,108, Bestiary 2
+521,Filth fire ,4,"Elemental, fire",Elemental,Common,110, Bestiary 2
+522,Flytrap leshy ,4,Leshy,Plant,Common,161, Bestiary 2
+523,Frost troll ,4,Troll,Giant,Uncommon,264, Bestiary 2
+524,Giant dragonfly ,4,Dragonfly,Animal,Common,98, Bestiary 2
+525,Giant wolverine ,4,Wolverine,Animal,Common,295, Bestiary 2
+526,Gray ooze ,4,Ooze,Ooze,Common,193, Bestiary 2
+527,Hadrosaurid ,4,Dinosaur,Animal,Common,81, Bestiary 2
+528,Hound archon ,4,Archon,Celestial,Common,22, Bestiary 2
+529,Kelpie ,4,Kelpie,Fey,Common,154, Bestiary 2
+530,Korred ,4,Korred,Fey,Uncommon,155, Bestiary 2
+531,Living thunderclap ,4,"Elemental, air",Elemental,Common,106, Bestiary 2
+532,Mandragora ,4,Mandragora,Plant,Common,170, Bestiary 2
+533,Mist stalker ,4,"Elemental, water",Elemental,Common,114, Bestiary 2
+534,Peryton ,4,Peryton,Beast,Common,197, Bestiary 2
+535,Rhinoceros ,4,Rhinoceros,Animal,Common,228, Bestiary 2
+536,Scarecrow ,4,Scarecrow,Construct,Common,232, Bestiary 2
+537,Weretiger ,4,"Werecreature Beast,",humanoid,Common,291, Bestiary 2
+538,Army ant swarm ,5,Ant,Animal,Common,20, Bestiary 2
+539,Azuretzi ,5,Protean,Monitor,Common,205, Bestiary 2
+540,Basidirond ,5,Basidirond,Fungus,Common,34, Bestiary 2
+541,Bog mummy ,5,Mummy,Undead,Common,177, Bestiary 2
+542,Catrina ,5,Psychopomp,Monitor,Common,209, Bestiary 2
+543,Dig–widget ,5,Dig–widget,Construct,Common,79, Bestiary 2
+544,Emperor cobra ,5,Snake,Animal,Common,245, Bestiary 2
+545,Giant crawling hand ,5,Crawling hand,Undead,Common,56, Bestiary 2
+546,Grimstalker ,5,Grimstalker,Fey,Common,137, Bestiary 2
+547,Grodair ,5,"Grodair Beast,",fey,Common,140, Bestiary 2
+548,Hippopotamus ,5,Hippopotamus,Animal,Common,144, Bestiary 2
+549,Ice golem ,5,Golem,Construct,Uncommon,129, Bestiary 2
+550,Leucrotta ,5,Leucrotta,Beast,Common,162, Bestiary 2
+551,Lurker in light ,5,Lurker in light,Fey,Common,169, Bestiary 2
+552,Ogre spider ,5,Spider,Animal,Common,249, Bestiary 2
+553,Orca ,5,Dolphin,Animal,Common,84, Bestiary 2
+554,Ostiarius ,5,Velstrac,Fiend,Common,281, Bestiary 2
+555,Polar bear ,5,Bear,Animal,Common,36, Bestiary 2
+556,Skaveling ,5,Skaveling,Undead,Common,241, Bestiary 2
+557,Urdefhan tormentor ,5,Urdefhan,Humanoid,Common,273, Bestiary 2
+558,Ahuizotl ,6,Ahuizotl,Beast,Uncommon,12, Bestiary 2
+559,Babau ,6,Demon,Fiend,Common,64, Bestiary 2
+560,Baobhan sith ,6,Baobhan sith,Fey,Uncommon,33, Bestiary 2
+561,Belker ,6,"Elemental, air",Elemental,Common,106, Bestiary 2
+562,Blizzardborn ,6,"Elemental, water",Elemental,Common,114, Bestiary 2
+563,Blodeuwedd ,6,"Blodeuwedd Fey,",plant,Uncommon,41, Bestiary 2
+564,Bralani ,6,Azata,Celestial,Common,30, Bestiary 2
+565,Cavern troll ,6,Troll,Giant,Uncommon,264, Bestiary 2
+566,Evangelist ,6,Velstrac,Fiend,Common,281, Bestiary 2
+567,Fire jellyfish swarm ,6,Jellyfish,Animal,Common,152, Bestiary 2
+568,Giant mosquito ,6,Mosquito,Animal,Common,175, Bestiary 2
+569,Hodag ,6,Hodag,Beast,Uncommon,145, Bestiary 2
+570,Iguanodon ,6,Dinosaur,Animal,Common,82, Bestiary 2
+571,Lunar naga ,6,Naga,Aberration,Uncommon,178, Bestiary 2
+572,Revenant ,6,Revenant,Undead,Common,227, Bestiary 2
+573,Sand sentry ,6,"Elemental, earth",Elemental,Common,108, Bestiary 2
+574,Scythe tree ,6,Scythe tree,Plant,Common,235, Bestiary 2
+575,Sea drake ,6,Drake,Dragon,Common,101, Bestiary 2
+576,Skrik nettle ,6,Skrik nettle,Aberration,Common,242, Bestiary 2
+577,Striding fire ,6,"Elemental, fire",Elemental,Common,111, Bestiary 2
+578,Verdurous ooze ,6,Ooze,Ooze,Common,194, Bestiary 2
+579,Vrykolakas spawn ,6,Vampire,Undead,Common,276, Bestiary 2
+580,Witchwyrd ,6,Witchwyrd,Humanoid,Uncommon,294, Bestiary 2
+581,Wood giant ,6,"Giant Giant,",humanoid,Common,124, Bestiary 2
+582,Wood golem ,6,Golem,Construct,Uncommon,130, Bestiary 2
+583,Woolly rhinoceros ,6,Rhinoceros,Animal,Common,228, Bestiary 2
+584,Xill ,6,"Xill Aberration,",ethereal,Uncommon,299, Bestiary 2
+585,Culdewen ,7,Culdewen,Fey,Common,57, Bestiary 2
+586,Drainberry bush ,7,Drainberry bush,Plant,Common,99, Bestiary 2
+587,Dweomercat ,7,Dweomercat,Beast,Uncommon,103, Bestiary 2
+588,Elasmosaurus ,7,Elasmosaurus,Animal,Common,105, Bestiary 2
+589,Giant jellyfish ,7,Jellyfish,Animal,Common,152, Bestiary 2
+590,Hellcat ,7,"Hellcat Beast,",fiend,Common,141, Bestiary 2
+591,Hound of Tindalos ,7,"Hound of Tindalos Aberration,",time,Rare,146, Bestiary 2
+592,Invidiak ,7,Demon,Fiend,Common,65, Bestiary 2
+593,Megalania ,7,Lizard,Animal,Common,168, Bestiary 2
+594,Sceaduinar ,7,"Sceaduinar Aberration,",negative,Rare,233, Bestiary 2
+595,Shoggti ,7,Qlippoth,Fiend,Uncommon,213, Bestiary 2
+596,Soul eater ,7,Soul eater,Fiend,Uncommon,247, Bestiary 2
+597,Spectre ,7,Spectre,Undead,Common,248, Bestiary 2
+598,Sportlebore swarm ,7,Sportlebore,Animal,Common,251, Bestiary 2
+599,Spriggan warlord ,7,Spriggan,Humanoid,Common,253, Bestiary 2
+600,Stygira ,7,Stygira,Fey,Common,255, Bestiary 2
+601,Tendriculos ,7,"Tendriculos Fungus,",plant,Common,257, Bestiary 2
+602,Theletos ,7,Aeon,Monitor,Common,8, Bestiary 2
+603,Totenmaske ,7,Totenmaske,Undead,Common,262, Bestiary 2
+604,Vanth ,7,Psychopomp,Monitor,Common,210, Bestiary 2
+605,Young crystal dragon ,7,"Dragon, primal Dragon,",elemental,Uncommon,91, Bestiary 2
+606,Anancus ,8,Elephant,Animal,Common,116, Bestiary 2
+607,Animate dream ,8,Animate dream,Dream,Uncommon,18, Bestiary 2
+608,Behir ,8,Behir,Beast,Common,38, Bestiary 2
+609,Bodak ,8,Bodak,Undead,Uncommon,42, Bestiary 2
+610,Bone prophet ,8,Serpentfolk,Humanoid,Uncommon,239, Bestiary 2
+611,Denizen of Leng ,8,"Denizen of Leng Aberration,",dream,Common,70, Bestiary 2
+612,Destrachan ,8,Destrachan,Aberration,Common,71, Bestiary 2
+613,Giant hippocampus ,8,Hippocampus,Animal,Uncommon,142, Bestiary 2
+614,Giant slug ,8,Slug,Animal,Common,244, Bestiary 2
+615,Glass golem ,8,Golem,Construct,Uncommon,131, Bestiary 2
+616,Gorgon ,8,Gorgon,Beast,Uncommon,132, Bestiary 2
+617,Granite glyptodont ,8,"Elemental, earth",Elemental,Common,109, Bestiary 2
+618,Intellect devourer ,8,Intellect devourer,Aberration,Uncommon,147, Bestiary 2
+619,Magma scorpion ,8,"Elemental, fire",Elemental,Common,111, Bestiary 2
+620,Marsh giant ,8,"Giant Giant,",humanoid,Common,125, Bestiary 2
+621,Mohrg ,8,Mohrg,Undead,Common,172, Bestiary 2
+622,Moonflower ,8,Moonflower,Plant,Uncommon,173, Bestiary 2
+623,Nabasu ,8,Demon,Fiend,Common,65, Bestiary 2
+624,Onidoshi ,8,"Oni Fiend, giant,",humanoid,Common,188, Bestiary 2
+625,Sandpoint Devil ,8,"Sandpoint Devil Beast,",fiend,Unique,230, Bestiary 2
+626,Sarglagon ,8,Devil,Fiend,Common,72, Bestiary 2
+627,Two–headed troll ,8,Troll,Giant,Uncommon,265, Bestiary 2
+628,Young brine dragon ,8,"Dragon, primal Dragon,",elemental,Uncommon,87, Bestiary 2
+629,Aurumvorax ,9,Aurumvorax,Animal,Common,29, Bestiary 2
+630,Dracolisk ,9,"Basilisk Beast,",dragon,Uncommon,35, Bestiary 2
+631,Dread wraith ,9,Wraith,Undead,Common,298, Bestiary 2
+632,Giant snapping turtle ,9,Turtle,Animal,Common,269, Bestiary 2
+633,Giant squid ,9,Squid,Animal,Common,254, Bestiary 2
+634,Irnakurse ,9,Fleshwarp,Aberration,Common,118, Bestiary 2
+635,Jyoti ,9,"Jyoti Humanoid,",positive,Common,153, Bestiary 2
+636,Mastodon ,9,Elephant,Animal,Common,116, Bestiary 2
+637,Nuckelavee ,9,Nuckelavee,Fey,Common,186, Bestiary 2
+638,Osyluth ,9,Devil,Fiend,Common,73, Bestiary 2
+639,Spirit naga ,9,Naga,Aberration,Uncommon,179, Bestiary 2
+640,Tick swarm ,9,Tick,Animal,Common,260, Bestiary 2
+641,Titan centipede ,9,Centipede,Animal,Common,50, Bestiary 2
+642,Witchfire ,9,Witchfire,Undead,Uncommon,293, Bestiary 2
+643,Young magma dragon ,9,"Dragon, primal Dragon,",elemental,Uncommon,94, Bestiary 2
+644,Zelekhut ,9,Aeon,Monitor,Common,9, Bestiary 2
+645,Bebilith ,10,"Bebilith Beast,",fiend,Common,37, Bestiary 2
+646,Behemoth hippopotamus ,10,Hippopotamus,Animal,Common,144, Bestiary 2
+647,Ghonhatine ,10,Fleshwarp,Aberration,Common,119, Bestiary 2
+648,Icewyrm ,10,"Elemental, water",Elemental,Common,115, Bestiary 2
+649,Imentesh ,10,Protean,Monitor,Common,207, Bestiary 2
+650,Melody on the wind ,10,"Elemental, air",Elemental,Common,107, Bestiary 2
+651,Movanic deva ,10,Angel,Celestial,Common,14, Bestiary 2
+652,Nereid ,10,Nereid,Fey,Common,182, Bestiary 2
+653,Nyogoth ,10,Qlippoth,Fiend,Uncommon,213, Bestiary 2
+654,Peluda ,10,Peluda,Dragon,Common,196, Bestiary 2
+655,Piscodaemon ,10,Daemon,Fiend,Common,58, Bestiary 2
+656,Quetz couatl ,10,Couatl,Beast,Uncommon,54, Bestiary 2
+657,Sacristan ,10,Velstrac,Fiend,Common,282, Bestiary 2
+658,Vrykolakas master ,10,Vampire,Undead,Common,276, Bestiary 2
+659,Water orm ,10,Water orm,Beast,Rare,289, Bestiary 2
+660,Young cloud dragon ,10,"Dragon, primal Dragon,",elemental,Uncommon,89, Bestiary 2
+661,Adult crystal dragon ,11,"Dragon, primal Dragon,",elemental,Uncommon,92, Bestiary 2
+662,Devourer ,11,Devourer,Undead,Uncommon,78, Bestiary 2
+663,Gosreg ,11,Gosreg,Aberration,Uncommon,133, Bestiary 2
+664,Hamatula ,11,Devil,Fiend,Common,74, Bestiary 2
+665,Hezrou ,11,Demon,Fiend,Common,66, Bestiary 2
+666,Isqulug ,11,Isqulug,Aberration,Uncommon,149, Bestiary 2
+667,Meladaemon ,11,Daemon,Fiend,Common,58, Bestiary 2
+668,Quoppopak ,11,Quoppopak,Aberration,Common,219, Bestiary 2
+669,Spinosaurus ,11,Dinosaur,Animal,Common,82, Bestiary 2
+670,Spiral centurion ,11,Spiral centurion,Construct,Common,250, Bestiary 2
+671,Thunderbird ,11,Thunderbird,Beast,Uncommon,259, Bestiary 2
+672,Young umbral dragon ,11,"Dragon, primal Dragon,",shadow,Uncommon,96, Bestiary 2
+673,Adult brine dragon ,12,"Dragon, primal Dragon,",elemental,Uncommon,87, Bestiary 2
+674,Athach ,12,"Athach Giant,",humanoid,Common,27, Bestiary 2
+675,Catoblepas ,12,Catoblepas,Beast,Common,48, Bestiary 2
+676,Chernobue ,12,Qlippoth,Fiend,Uncommon,214, Bestiary 2
+677,Derghodaemon ,12,Daemon,Fiend,Common,59, Bestiary 2
+678,Frost worm ,12,Frost worm,Animal,Common,123, Bestiary 2
+679,Interlocutor ,12,Velstrac,Fiend,Common,283, Bestiary 2
+680,Monadic deva ,12,Angel,Celestial,Common,15, Bestiary 2
+681,Rusalka ,12,Rusalka,Fey,Common,229, Bestiary 2
+682,Taiga giant ,12,"Giant Giant,",humanoid,Common,126, Bestiary 2
+683,Adult magma dragon ,13,"Dragon, primal Dragon,",elemental,Uncommon,94, Bestiary 2
+684,Carnivorous blob ,13,Ooze,Ooze,Common,195, Bestiary 2
+685,Froghemoth ,13,Froghemoth,Aberration,Uncommon,122, Bestiary 2
+686,Ice yai ,13,"Oni Fiend, giant,",humanoid,Common,189, Bestiary 2
+687,Irlgaunt ,13,Irlgaunt,Aberration,Common,148, Bestiary 2
+688,Leng spider ,13,"Leng spider Aberration,",dream,Uncommon,157, Bestiary 2
+689,Shadow giant ,13,"Giant Giant, humanoid,",shadow,Common,127, Bestiary 2
+690,Thanadaemon ,13,Daemon,Fiend,Common,60, Bestiary 2
+691,Viper vine ,13,Viper vine,Plant,Common,287, Bestiary 2
+692,Vrykolakas ancient ,13,Vampire,Undead,Uncommon,277, Bestiary 2
+693,Adult cloud dragon ,14,"Dragon, primal Dragon,",elemental,Uncommon,90, Bestiary 2
+694,Ankou ,14,Ankou,Fey,Common,19, Bestiary 2
+695,Augnagar ,14,Qlippoth,Fiend,Uncommon,215, Bestiary 2
+696,Doprillu ,14,Doprillu,Aberration,Common,85, Bestiary 2
+697,Fire yai ,14,"Oni Fiend, giant,",humanoid,Common,190, Bestiary 2
+698,Gylou ,14,Devil,Fiend,Common,75, Bestiary 2
+699,Nalfeshnee ,14,Demon,Fiend,Common,67, Bestiary 2
+700,Ravener husk ,14,"Ravener Dragon,",undead,Rare,224, Bestiary 2
+701,Trumpet archon ,14,Archon,Celestial,Common,23, Bestiary 2
+702,Worm that walks cultist ,14,Worm that walks,Aberration,Uncommon,297, Bestiary 2
+703,Adult umbral dragon ,15,"Dragon, primal Dragon,",shadow,Uncommon,96, Bestiary 2
+704,Black scorpion ,15,Scorpion,Animal,Common,234, Bestiary 2
+705,Jotund troll ,15,Troll,Giant,Rare,267, Bestiary 2
+706,Marrmora ,15,Marrmora,Fey,Common,171, Bestiary 2
+707,Marut ,15,Aeon,Monitor,Common,10, Bestiary 2
+708,Neothelid ,15,Neothelid,Aberration,Uncommon,181, Bestiary 2
+709,Shoal linnorm ,15,Linnorm,Dragon,Uncommon,164, Bestiary 2
+710,Umonlee ,15,Umonlee,Beast,Uncommon,271, Bestiary 2
+711,Ancient crystal dragon ,16,"Dragon, primal Dragon,",elemental,Rare,92, Bestiary 2
+712,Bythos ,16,Aeon,Monitor,Uncommon,11, Bestiary 2
+713,Cornugon ,16,Devil,Fiend,Common,76, Bestiary 2
+714,Fjord linnorm ,16,Linnorm,Dragon,Uncommon,165, Bestiary 2
+715,Planetar ,16,Angel,Celestial,Uncommon,15, Bestiary 2
+716,Zomok ,16,"Zomok Dragon,",plant,Common,303, Bestiary 2
+717,Ancient brine dragon ,17,"Dragon, primal Dragon,",elemental,Rare,88, Bestiary 2
+718,Leydroth ,17,Leydroth,Beast,Uncommon,163, Bestiary 2
+719,Radiant warden ,17,Radiant warden,Construct,Uncommon,220, Bestiary 2
+720,Thrasfyr ,17,Thrasfyr,Beast,Rare,258, Bestiary 2
+721,Vaspercham ,17,Vaspercham,Aberration,Common,279, Bestiary 2
+722,Water yai ,17,"Oni Fiend, giant,",humanoid,Common,191, Bestiary 2
+723,Ancient magma dragon ,18,"Dragon, primal Dragon,",elemental,Rare,95, Bestiary 2
+724,Aolaz ,18,Aolaz,Construct,Rare,21, Bestiary 2
+725,Cairn linnorm ,18,Linnorm,Dragon,Uncommon,166, Bestiary 2
+726,Duneshaker solifugid ,18,Solifugid,Animal,Common,246, Bestiary 2
+727,Purrodaemon ,18,Daemon,Fiend,Common,61, Bestiary 2
+728,Thulgant ,18,Qlippoth,Fiend,Uncommon,216, Bestiary 2
+729,Ancient cloud dragon ,19,"Dragon, primal Dragon,",elemental,Rare,90, Bestiary 2
+730,Grendel ,19,Grendel,Humanoid,Unique,136, Bestiary 2
+731,Sard ,19,Sard,Plant,Rare,231, Bestiary 2
+732,Star archon ,19,Archon,Celestial,Common,23, Bestiary 2
+733,Taiga linnorm ,19,Linnorm,Dragon,Uncommon,167, Bestiary 2
+734,Vrolikai ,19,Demon,Fiend,Uncommon,68, Bestiary 2
+735,Ancient umbral dragon ,20,"Dragon, primal Dragon,",shadow,Rare,97, Bestiary 2
+736,Bastion archon ,20,Archon,Celestial,Rare,24, Bestiary 2
+737,Eremite ,20,Velstrac,Fiend,Common,284, Bestiary 2
+738,Norn ,20,Norn,Fey,Rare,184, Bestiary 2
+739,Olethrodaemon ,20,Daemon,Fiend,Common,63, Bestiary 2
+740,Veranallia ,20,Azata,Celestial,Common,31, Bestiary 2
+741,Yamaraj ,20,Psychopomp,Monitor,Uncommon,211, Bestiary 2
+742,Lerritan ,21,Lerritan,Elemental,Common,159, Bestiary 2
+743,Ravener ,21,"Ravener Dragon,",undead,Rare,224, Bestiary 2
+744,Jabberwock ,23,Jabberwock,Dragon,Rare,150, Bestiary 2
+745,Solar ,23,Angel,Celestial,Rare,16, Bestiary 2
+746,Clockwork spy –,1,Clockwork,Construct,Uncommon,48, Bestiary 3
+747,Common eurypterid –,1,Eurypterid,Animal,Common,97, Bestiary 3
+748,Grimple –,1,Gremlin,Fey,Common,120, Bestiary 3
+749,Haniver –,1,Gremlin,Fey,Common,120, Bestiary 3
+750,Monkey –,1,Monkey,Animal,Common,172, Bestiary 3
+751,Nyktera –,1,Sprite,Fey,Common,254, Bestiary 3
+752,Pufferfish –,1,Fish,Animal,Common,99, Bestiary 3
+753,Red fox –,1,Fox,Animal,Common,102, Bestiary 3
+754,Severed head –,1,Beheaded,Undead,Common,30, Bestiary 3
+755,Skunk –,1,Skunk,Animal,Common,246, Bestiary 3
+756,Three-toed sloth –,1,Sloth,Animal,Common,248, Bestiary 3
+757,Tooth fairy –,1,Tooth fairy,Fey,Common,273, Bestiary 3
+758,Trilobite –,1,Trilobite,Animal,Common,275, Bestiary 3
+759,Weasel –,1,Weasel,Animal,Common,291, Bestiary 3
+760,Air wisp ,0,Elemental,Elemental,Common,90, Bestiary 3
+761,Earth wisp ,0,Elemental,Elemental,Common,90, Bestiary 3
+762,Fire wisp ,0,Elemental,Elemental,Common,91, Bestiary 3
+763,Ioton ,0,Ennosite,Astral,Common,92, Bestiary 3
+764,Kangaroo ,0,Kangaroo,Animal,Common,146, Bestiary 3
+765,Melixie ,0,Sprite,Fey,Common,254, Bestiary 3
+766,Ringhorn ram ,0,Ram,Animal,Common,212, Bestiary 3
+767,Vine leshy ,0,Leshy,Plant,Common,160, Bestiary 3
+768,Water wisp ,0,Elemental,Elemental,Common,91, Bestiary 3
+769,Animated silverware swarm ,1,Animated object,Construct,Common,18, Bestiary 3
+770,Camel ,1,Camel,Animal,Common,43, Bestiary 3
+771,Coral capuchin ,1,Coral capuchin,Beast,Common,54, Bestiary 3
+772,Cunning fox ,1,"Spirit guide Beast,",spirit,Common,252, Bestiary 3
+773,Doru ,1,Div,Fiend,Common,68, Bestiary 3
+774,Esipil ,1,Sahkil,Fiend,Common,218, Bestiary 3
+775,Festrog ,1,Festrog,Undead,Common,98, Bestiary 3
+776,Flumph ,1,Flumph,Aberration,Common,100, Bestiary 3
+777,Fuath ,1,Gremlin,Fey,Common,121, Bestiary 3
+778,Gathlain wanderer ,1,"Gathlain Fey,",plant,Common,105, Bestiary 3
+779,Giant skunk ,1,Skunk,Animal,Common,246, Bestiary 3
+780,Grioth scout ,1,Grioth,Humanoid,Uncommon,122, Bestiary 3
+781,House drake ,1,House drake,Dragon,Common,135, Bestiary 3
+782,Ostovite ,1,Ostovite,Fiend,Common,193, Bestiary 3
+783,Raktavarna ,1,Rakshasa,Fiend,Uncommon,210, Bestiary 3
+784,Samsaran anchorite ,1,Samsaran,Humanoid,Uncommon,224, Bestiary 3
+785,Shaukeen ,1,Asura,Fiend,Common,22, Bestiary 3
+786,Shikigami ,1,Kami,Spirit,Common,142, Bestiary 3
+787,Silvanshee ,1,Agathion,Celestial,Common,10, Bestiary 3
+788,Squirrel swarm ,1,Squirrel,Animal,Common,257, Bestiary 3
+789,Stheno harpist ,1,Stheno,Humanoid,Rare,258, Bestiary 3
+790,Vanara disciple ,1,Vanara,Humanoid,Uncommon,286, Bestiary 3
+791,Wayang whisperblade ,1,"Wayang Humanoid,",shadow,Uncommon,290, Bestiary 3
+792,Wyrwood sneak ,1,Wyrwood,Construct,Common,298, Bestiary 3
+793,Yzobu ,1,Yzobu,Animal,Common,300, Bestiary 3
+794,Android infiltrator ,2,Android,Humanoid,Rare,16, Bestiary 3
+795,Angheuvore flesh-gnawer ,2,Mortic,Humanoid,Rare,174, Bestiary 3
+796,Azarketi explorer ,2,Azarketi,Humanoid,Common,26, Bestiary 3
+797,Azer ,2,"Azer Elemental,",humanoid,Common,27, Bestiary 3
+798,Cactus leshy ,2,Leshy,Humanoid,Plant,160, Bestiary 3
+799,Cobbleswarm ,2,Cobble mite,Aberration,Common,52, Bestiary 3
+800,Domovoi ,2,House spirit,Fey,Common,136, Bestiary 3
+801,Dretch ,2,Demon,Fiend,Common,60, Bestiary 3
+802,Duende ,2,Duende,Fey,Uncommon,87, Bestiary 3
+803,Fading fox ,2,Fox,Animal,Common,102, Bestiary 3
+804,Flaming skull ,2,Beheaded,Undead,Common,30, Bestiary 3
+805,Giant flying squirrel ,2,Squirrel,Animal,Common,257, Bestiary 3
+806,Giant opossum ,2,Opossum,Animal,Common,192, Bestiary 3
+807,Giant porcupine ,2,Porcupine,Animal,Common,207, Bestiary 3
+808,Herexen ,2,Herexen,Undead,Common,134, Bestiary 3
+809,Incutilis ,2,Incutilis,Aberration,Uncommon,140, Bestiary 3
+810,Ittan-momen ,2,Tsukumogami,—,Common,276, Bestiary 3
+811,Kappa ,2,Kappa,Beast,Common,147, Bestiary 3
+812,Kitsune trickster ,2,Kitsune,Humanoid,Common,150, Bestiary 3
+813,Ledalusca ,2,Ledalusca,Elemental,Common,159, Bestiary 3
+814,Monkey swarm ,2,Monkey,Animal,Common,172, Bestiary 3
+815,Munavri spellblade ,2,Munavri,Humanoid,Rare,180, Bestiary 3
+816,Nagaji soldier ,2,Nagaji,Humanoid,Common,182, Bestiary 3
+817,Rat snake swarm ,2,Snake,Animal,Common,249, Bestiary 3
+818,Rokurokubi ,2,Rokurokubi,Humanoid,Common,216, Bestiary 3
+819,Rosethorn ram ,2,Ram,Animal,Common,212, Bestiary 3
+820,Sasquatch ,2,Sasquatch,Humanoid,Uncommon,225, Bestiary 3
+821,Squirming swill ,2,Squirming swill,Undead,Common,256, Bestiary 3
+822,Stone lion cub ,2,Guardian beast,Celestial,Uncommon,124, Bestiary 3
+823,Strix kinmate ,2,Strix,Humanoid,Uncommon,259, Bestiary 3
+824,Terror bird ,2,Terror bird,Animal,Common,264, Bestiary 3
+825,Werebat ,2,"Werecreature Beast,",humanoid,Common,292, Bestiary 3
+826,Werecrocodile ,2,"Werecreature Beast,",humanoid,Common,293, Bestiary 3
+827,Buso farmer ,3,Buso,Humanoid,Common,39, Bestiary 3
+828,Draxie ,3,Sprite,Fey,Common,255, Bestiary 3
+829,Dvorovoi ,3,House spirit,Fey,Common,137, Bestiary 3
+830,Ganzi martial artist ,3,Planar scion,Humanoid,Common,205, Bestiary 3
+831,Ghoran manipulator ,3,"Ghoran Humanoid,",plant,Rare,106, Bestiary 3
+832,Giant seahorse ,3,Seahorse,Animal,Common,227, Bestiary 3
+833,Giant vulture ,3,Vulture,Animal,Common,289, Bestiary 3
+834,Grioth cultist ,3,Grioth,Humanoid,Rare,123, Bestiary 3
+835,Kovintus geomancer ,3,Kovintus,Humanoid,Common,153, Bestiary 3
+836,Locathah hunter ,3,Locathah,Humanoid,Common,164, Bestiary 3
+837,Megalictus ,3,Weasel,Animal,Common,291, Bestiary 3
+838,Moose ,3,Moose,Animal,Common,173, Bestiary 3
+839,Narwhal ,3,Narwhal,Animal,Common,184, Bestiary 3
+840,Oil living graffiti ,3,Living symbol,Construct,Rare,162, Bestiary 3
+841,Piranha swarm ,3,Fish,Animal,Common,99, Bestiary 3
+842,Platecarpus ,3,Mosasaur,Animal,Common,178, Bestiary 3
+843,Scalescribe ,3,Scalescribe,Aberration,Common,226, Bestiary 3
+844,Seaweed leshy ,3,Leshy,Plant,Common,161, Bestiary 3
+845,Shulsaga ,3,Ennosite,Astral,Uncommon,93, Bestiary 3
+846,Street skelm ,3,Skelm,Humanoid,Common,238, Bestiary 3
+847,Tattoo guardian ,3,Tattoo guardian,Construct,Uncommon,262, Bestiary 3
+848,Tooth fairy swarm ,3,Tooth fairy,Fey,Common,273, Bestiary 3
+849,Trailgaunt ,3,Trailgaunt,Undead,Common,274, Bestiary 3
+850,Trilobite swarm ,3,Trilobite,Animal,Common,275, Bestiary 3
+851,Vishkanya infiltrator ,3,Vishkanya,Humanoid,Rare,288, Bestiary 3
+852,Wolliped ,3,Wolliped,Animal,Common,295, Bestiary 3
+853,Abrikandilu ,4,Demon,Fiend,Common,61, Bestiary 3
+854,Aghash ,4,Div,Fiend,Common,69, Bestiary 3
+855,Amphisbaena ,4,Amphisbaena,Animal,Common,15, Bestiary 3
+856,Aphorite sharpshooter ,4,Planar scion,Humanoid,Common,204, Bestiary 3
+857,Bison ,4,Bison,Animal,Common,32, Bestiary 3
+858,Corrupted relic ,4,Corrupted relic,Undead,Rare,55, Bestiary 3
+859,Giant pangolin ,4,Pangolin,Animal,Common,199, Bestiary 3
+860,Hellbound attorney ,4,"Devil Fiend,",humanoid,Uncommon,64, Bestiary 3
+861,Hermit crab swarm ,4,Hermit crab,Animal,Common,58, Bestiary 3
+862,Huldra ,4,Huldra,Fey,Uncommon,138, Bestiary 3
+863,Kasa-obake ,4,Tsukumogami,—,Common,276, Bestiary 3
+864,Kushtaka ,4,Kushtaka,Beast,Common,158, Bestiary 3
+865,Lovelorn ,4,Lovelorn,Undead,Uncommon,165, Bestiary 3
+866,Myceloid ,4,Myceloid,Fungus,Common,181, Bestiary 3
+867,Nightgaunt ,4,"Nightgaunt Aberration,",dream,Uncommon,186, Bestiary 3
+868,Nucol ,4,Sahkil,Fiend,Common,219, Bestiary 3
+869,Ovinnik ,4,House spirit,Fey,Common,137, Bestiary 3
+870,Phantom knight ,4,Phantom,Ethereal,Uncommon,202, Bestiary 3
+871,Shabti redeemer ,4,Shabti,Humanoid,Common,229, Bestiary 3
+872,Shae ,4,Shae,Shadow,Common,230, Bestiary 3
+873,Shambler troop ,4,Zombie,Undead,Common,302, Bestiary 3
+874,Stone lion ,4,Guardian beast,Celestial,Uncommon,125, Bestiary 3
+875,Terror shrike ,4,Terror bird,Animal,Common,264, Bestiary 3
+876,Viper swarm ,4,Snake,Animal,Common,249, Bestiary 3
+877,Bore worm swarm ,5,Bore worm,Animal,Common,36, Bestiary 3
+878,Brimorak ,5,Demon,Fiend,Common,62, Bestiary 3
+879,Caligni vanguard ,5,Caligni,Humanoid,Rare,40, Bestiary 3
+880,Cecaelia trapper ,5,Cecaelia,Humanoid,Common,45, Bestiary 3
+881,City guard squadron ,5,City guard squadron,Humanoid,Common,47, Bestiary 3
+882,Divine warden ,5,Divine warden,Construct,Uncommon,72, Bestiary 3
+883,Eunemvro ,5,"Eunemvro Humanoid,",positive,Uncommon,96, Bestiary 3
+884,Giant hermit crab ,5,Hermit crab,Animal,Common,58, Bestiary 3
+885,Globster ,5,Globster,Ooze,Common,115, Bestiary 3
+886,Harpy skeleton ,5,Skeleton,Undead,Common,236, Bestiary 3
+887,Hieracosphinx ,5,Sphinx,Beast,Common,250, Bestiary 3
+888,Kodama ,5,Kami,Spirit,Common,143, Bestiary 3
+889,Lampad ,5,Nymph,Fey,Common,188, Bestiary 3
+890,Megatherium ,5,Sloth,Animal,Common,248, Bestiary 3
+891,Namorrodor ,5,Namorrodor,Undead,Common,183, Bestiary 3
+892,Penanggalan ,5,Penanggalan,Aberration,Common,200, Bestiary 3
+893,Sabosan ,5,Sabosan,Humanoid,Common,217, Bestiary 3
+894,Shrine skelm ,5,Skelm,Humanoid,Common,239, Bestiary 3
+895,Skinstich ,5,Skinstich,Construct,Uncommon,242, Bestiary 3
+896,Spiny eurypterid ,5,Eurypterid,Animal,Common,97, Bestiary 3
+897,Storm hag ,5,Hag,Humanoid,Common,128, Bestiary 3
+898,Wizard sponge ,5,Wizard sponge,Fungus,Common,294, Bestiary 3
+899,Abandoned zealot ,6,Abandoned zealot,Undead,Common,8, Bestiary 3
+900,Bauble beast ,6,Bauble beast,Beast,Uncommon,28, Bestiary 3
+901,Caligni caller ,6,Caligni,Humanoid,Uncommon,41, Bestiary 3
+902,Cave giant ,6,Giant,Humanoid,Common,108, Bestiary 3
+903,Chouchin-obake ,6,Tsukumogami,—,Common,277, Bestiary 3
+904,Clockwork soldier ,6,Clockwork,Construct,Uncommon,49, Bestiary 3
+905,Gurgist mauler ,6,Mortic,Humanoid,Rare,175, Bestiary 3
+906,Kurobozu ,6,Kurobozu,Undead,Common,157, Bestiary 3
+907,Maftet guardian ,6,Maftet,Humanoid,Common,166, Bestiary 3
+908,Mi-go ,6,Mi-go,Fungus,Uncommon,168, Bestiary 3
+909,Owb ,6,Owb,Shadow,Uncommon,196, Bestiary 3
+910,Rhu-chalik ,6,Rhu-chalik,Aberration,Uncommon,214, Bestiary 3
+911,Skull peeler ,6,Skull peeler,Beast,Common,243, Bestiary 3
+912,Sulfur zombie ,6,Zombie,Undead,Common,303, Bestiary 3
+913,Terra-cotta soldier ,6,Terra-cotta soldier,Construct,Common,263, Bestiary 3
+914,Umasi ,6,"Umasi Aberration,",humanoid,Uncommon,280, Bestiary 3
+915,Vulpinal ,6,Agathion,Celestial,Common,11, Bestiary 3
+916,Wihsaak ,6,Sahkil,Fiend,Common,220, Bestiary 3
+917,Adhukait ,7,Asura,Fiend,Common,23, Bestiary 3
+918,Arboreal reaper ,7,Arboreal,Plant,Common,20, Bestiary 3
+919,Caulborn ,7,Ennosite,Astral,Uncommon,94, Bestiary 3
+920,Crossroads guardian ,7,Crossroads guardian,Fey,Rare,59, Bestiary 3
+921,Empress bore worm ,7,Bore worm,Animal,Common,37, Bestiary 3
+922,Fortune eater ,7,Fortune eater,Undead,Rare,101, Bestiary 3
+923,Kirin ,7,Kirin,Beast,Rare,148, Bestiary 3
+924,Levaloch ,7,"Devil Construct,",fiend,Common,65, Bestiary 3
+925,Manticore paaridar ,7,"Paaridar Beast,",humanoid,Uncommon,198, Bestiary 3
+926,Mothman ,7,Mothman,Aberration,Rare,179, Bestiary 3
+927,Pairaka ,7,Div,Fiend,Common,70, Bestiary 3
+928,Pukwudgie ,7,Pukwudgie,Fey,Uncommon,208, Bestiary 3
+929,Slithering pit ,7,Slithering pit,Ooze,Rare,247, Bestiary 3
+930,Tiddalik ,7,Tiddalik,Beast,Common,265, Bestiary 3
+931,Tupilaq ,7,Tupilaq,Construct,Common,278, Bestiary 3
+932,Winter hag ,7,Hag,Humanoid,Common,129, Bestiary 3
+933,Young underworld dragon ,7,Imperial dragon,Dragon,Uncommon,83, Bestiary 3
+934,Zetogeki ,7,Zetogeki,Animal,Common,301, Bestiary 3
+935,Angazhani ,8,Angazhani,Beast,Common,17, Bestiary 3
+936,Blood hag ,8,Hag,Humanoid,Common,130, Bestiary 3
+937,Hellknight cavalry brigade ,8,"Cavalry brigade Animal,",humanoid,Common,44, Bestiary 3
+938,Girtablilu sentry ,8,Girtablilu,Beast,Common,113, Bestiary 3
+939,Guecubu ,8,Guecubu,Undead,Uncommon,126, Bestiary 3
+940,Hadrinnex ,8,Hadrinnex,Aberration,Uncommon,127, Bestiary 3
+941,Hellwasp swarm ,8,Hellwasp swarm,Fiend,Common,133, Bestiary 3
+942,Kishi ,8,Kishi,Fey,Common,149, Bestiary 3
+943,Lifeleecher brawler ,8,Mortic,Humanoid,Rare,176, Bestiary 3
+944,Mix couatl ,8,Couatl,Beast,Uncommon,56, Bestiary 3
+945,Nosferatu thrall ,8,Vampire,Humanoid,Uncommon,284, Bestiary 3
+946,Palace skelm ,8,Skelm,Humanoid,Common,240, Bestiary 3
+947,Phantom beast ,8,Phantom,Ethereal,Rare,203, Bestiary 3
+948,Procyal ,8,Agathion,Celestial,Common,11, Bestiary 3
+949,Shantak ,8,Shantak,Beast,Uncommon,231, Bestiary 3
+950,Tylosaurus ,8,Mosasaur,Animal,Common,178, Bestiary 3
+951,Young sea dragon ,8,Imperial dragon,Dragon,Uncommon,77, Bestiary 3
+952,Animated furnace ,9,Animated object,Construct,Common,18, Bestiary 3
+953,Baykok ,9,Baykok,Undead,Common,29, Bestiary 3
+954,Blood painter ,9,Blood painter,Aberration,Common,33, Bestiary 3
+955,Clockwork mage ,9,Clockwork,Construct,Uncommon,50, Bestiary 3
+956,Desert giant ,9,Giant,Humanoid,Common,109, Bestiary 3
+957,Galvo ,9,Galvo,Aberration,Common,103, Bestiary 3
+958,Garuda ,9,Garuda,Celestial,Common,104, Bestiary 3
+959,Gliminal ,9,"Gliminal Positive,",spirit,Rare,114, Bestiary 3
+960,Hesperid ,9,Nymph,Fey,Common,189, Bestiary 3
+961,Khravgodon ,9,Opossum,Animal,Common,192, Bestiary 3
+962,Mokele-mbembe ,9,Mokele-mbembe,Animal,Uncommon,171, Bestiary 3
+963,Pakalchi ,9,Sahkil,Fiend,Common,220, Bestiary 3
+964,Roiling incant ,9,Roiling incant,—,Uncommon,215, Bestiary 3
+965,Tikbalang ,9,Tikbalang,Beast,Uncommon,267, Bestiary 3
+966,Tyrannosaurus skeleton ,9,Skeleton,Undead,Common,236, Bestiary 3
+967,Yithian ,9,Yithian,Aberration,Rare,299, Bestiary 3
+968,Young sky dragon ,9,Imperial dragon,Dragon,Uncommon,79, Bestiary 3
+969,Zombie dragon ,9,Zombie,Undead,Common,303, Bestiary 3
+970,Adlet ,10,Adlet,Humanoid,Common,9, Bestiary 3
+971,Chyzaedu ,10,Chyzaedu,Aberration,Rare,46, Bestiary 3
+972,Clacking skull swarm ,10,Skull swarm,Undead,Common,244, Bestiary 3
+973,Einherji ,10,Einherji,Monitor,Common,89, Bestiary 3
+974,Etioling blightmage ,10,Mortic,Humanoid,Rare,177, Bestiary 3
+975,Feathered bear ,10,"Spirit guide Beast,",spirit,Common,253, Bestiary 3
+976,Leng ghoul ,10,"Ghoul Dream,",undead,Common,107, Bestiary 3
+977,Mobogo ,10,Mobogo,Beast,Common,170, Bestiary 3
+978,Moon hag ,10,"Hag Fiend,",humanoid,Common,131, Bestiary 3
+979,Nosferatu malefactor ,10,Vampire,Undead,Uncommon,285, Bestiary 3
+980,Quintessivore ,10,Quintessivore,Beast,Rare,209, Bestiary 3
+981,Soul skelm ,10,"Skelm Fiend,",humanoid,Uncommon,241, Bestiary 3
+982,Swordkeeper ,10,Swordkeeper,Construct,Uncommon,261, Bestiary 3
+983,Young forest dragon ,10,"Imperial dragon Dragon,",plant,Uncommon,74, Bestiary 3
+984,Zuishin ,10,Kami,Spirit,Common,144, Bestiary 3
+985,Adult underworld dragon ,11,Imperial dragon,Dragon,Uncommon,84, Bestiary 3
+986,Brainchild ,11,Brainchild,—,Rare,38, Bestiary 3
+987,Harmona ,11,Harmona,Fey,Uncommon,132, Bestiary 3
+988,Kongamato ,11,Kongamato,Dragon,Uncommon,152, Bestiary 3
+989,Munagola ,11,Devil,Fiend,Common,66, Bestiary 3
+990,Rancorous priesthood ,11,Rancorous priesthood,Humanoid,Common,213, Bestiary 3
+991,Seething spirit ,11,Seething spirit,Undead,Uncommon,228, Bestiary 3
+992,Skeleton infantry ,11,Skeleton,Undead,Common,237, Bestiary 3
+993,Young sovereign dragon ,11,Imperial dragon,Dragon,Uncommon,81, Bestiary 3
+994,Adult sea dragon ,12,Imperial dragon,Dragon,Uncommon,78, Bestiary 3
+995,Arboreal archive ,12,Arboreal,Plant,Common,21, Bestiary 3
+996,Betobeto-san ,12,"Betobeto-san Shadow,",spirit,Uncommon,32, Bestiary 3
+997,Calikang ,12,Calikang,Humanoid,Uncommon,42, Bestiary 3
+998,Feral skull swarm ,12,Skull swarm,Undead,Uncommon,244, Bestiary 3
+999,Fossil golem ,12,Golem,Construct,Rare,116, Bestiary 3
+1000,Girtablilu seer ,12,Girtablilu,Beast,Common,112, Bestiary 3
+1001,Japalisura ,12,Asura,Fiend,Common,23, Bestiary 3
+1002,Kokogiak ,12,Kokogiak,Beast,Common,151, Bestiary 3
+1003,Misery siktempora ,12,Siktempora,Time,Rare,232, Bestiary 3
+1004,Omox ,12,"Demon Fiend,",ooze,Uncommon,63, Bestiary 3
+1005,Tidehawk ,12,Tidehawk,Beast,Rare,266, Bestiary 3
+1006,Tomb giant ,12,Giant,Humanoid,Common,110, Bestiary 3
+1007,Valkyrie ,12,Valkyrie,Monitor,Common,281, Bestiary 3
+1008,Xiuh couatl ,12,Couatl,Beast,Rare,57, Bestiary 3
+1009,Adachros ,13,Ennosite,Astral,Uncommon,95, Bestiary 3
+1010,Adult sky dragon ,13,Imperial dragon,Dragon,Uncommon,80, Bestiary 3
+1011,Amalgamite ,13,Amalgamite,Aberration,Rare,14, Bestiary 3
+1012,Animated trebuchet ,13,Animated object,Construct,Common,19, Bestiary 3
+1013,Arcane living rune ,13,Living symbol,Construct,Rare,163, Bestiary 3
+1014,Consonite choir ,13,Consonite choir,Elemental,Uncommon,53, Bestiary 3
+1015,Jorogumo ,13,Jorogumo,Humanoid,Uncommon,141, Bestiary 3
+1016,Millindemalion ,13,Millindemalion,Fey,Common,169, Bestiary 3
+1017,Owb prophet ,13,Owb,Shadow,Rare,197, Bestiary 3
+1018,Terra-cotta garrison ,13,Terra-cotta garrison,Construct,Common,263, Bestiary 3
+1019,Adult forest dragon ,14,"Imperial dragon Dragon,",plant,Uncommon,75, Bestiary 3
+1020,Dramofir ,14,"Dramofir Aberration,",dream,Uncommon,86, Bestiary 3
+1021,Kuchisake-onna ,14,Kuchisake-onna,Aberration,Rare,156, Bestiary 3
+1022,Mezlan ,14,Mezlan,Ooze,Rare,167, Bestiary 3
+1023,Nightmarchers ,14,"Nightmarchers Spirit,",undead,Common,187, Bestiary 3
+1024,Nikaramsa ,14,Asura,Fiend,Common,25, Bestiary 3
+1025,Peri ,14,Peri,Celestial,Common,201, Bestiary 3
+1026,Plague giant ,14,Giant,Humanoid,Common,111, Bestiary 3
+1027,Sepid ,14,Div,Fiend,Common,71, Bestiary 3
+1028,Sorcerous skull swarm ,14,Skull swarm,Undead,Rare,245, Bestiary 3
+1029,Triumph siktempora ,14,Siktempora,Time,Rare,233, Bestiary 3
+1030,Adult sovereign dragon ,15,Imperial dragon,Dragon,Uncommon,82, Bestiary 3
+1031,Animated colossus ,15,Animated object,Construct,Common,19, Bestiary 3
+1032,Dybbuk ,15,Dybbuk,Undead,Uncommon,88, Bestiary 3
+1033,Hyakume ,15,Hyakume,Aberration,Uncommon,139, Bestiary 3
+1034,Lampad queen ,15,Nymph,Fey,Uncommon,189, Bestiary 3
+1035,Nemhaith ,15,Nemhaith,Undead,Uncommon,185, Bestiary 3
+1036,Nosferatu overlord ,15,Vampire,Undead,Rare,285, Bestiary 3
+1037,Popobawa ,15,Popobawa,Humanoid,Uncommon,206, Bestiary 3
+1038,Tolokand ,15,Tolokand,Aberration,Rare,272, Bestiary 3
+1039,Toshigami ,15,Kami,Spirit,Rare,145, Bestiary 3
+1040,Ancient underworld dragon ,16,Imperial dragon,Dragon,Rare,85, Bestiary 3
+1041,Clockwork dragon ,16,Clockwork,Construct,Rare,51, Bestiary 3
+1042,Elder sphinx ,16,Sphinx,Beast,Uncommon,250, Bestiary 3
+1043,Love siktempora ,16,Siktempora,Time,Rare,234, Bestiary 3
+1044,Mithral golem ,16,Golem,Construct,Rare,117, Bestiary 3
+1045,Sumbreiva ,16,"Sumbreiva Humanoid,",negative,Common,260, Bestiary 3
+1046,Vilderavn ,16,Vilderavn,Fey,Rare,287, Bestiary 3
+1047,Ancient sea dragon ,17,Imperial dragon,Dragon,Rare,78, Bestiary 3
+1048,Deimavigga ,17,Devil,Fiend,Common,66, Bestiary 3
+1049,Wyrmwraith ,17,"Wyrmwraith Dragon,",undead,Rare,296, Bestiary 3
+1050,Ximtal ,17,Sahkil,Fiend,Common,221, Bestiary 3
+1051,Ancient sky dragon ,18,Imperial dragon,Dragon,Rare,80, Bestiary 3
+1052,Bone ship ,18,Bone ship,Undead,Rare,34, Bestiary 3
+1053,Hatred siktempora ,18,Siktempora,Time,Rare,235, Bestiary 3
+1054,Ancient forest dragon ,19,"Imperial dragon Dragon,",plant,Rare,76, Bestiary 3
+1055,Hesperid queen ,19,Nymph,Fey,Uncommon,191, Bestiary 3
+1056,Sturzstromer ,19,Cobble mite,Aberration,Uncommon,52, Bestiary 3
+1057,Tzitzimitl ,19,Tzitzimitl,Undead,Uncommon,279, Bestiary 3
+1058,Ancient sovereign dragon ,20,Imperial dragon,Dragon,Rare,83, Bestiary 3
+1059,Draconal ,20,Agathion,Celestial,Common,13, Bestiary 3
+1060,Kimenhul ,20,Sahkil,Fiend,Common,222, Bestiary 3
+1061,Maharaja ,20,Rakshasa,Fiend,Rare,211, Bestiary 3
+1062,Elysian titan ,21,Titan,Humanoid,Rare,268, Bestiary 3
+1063,Krampus ,21,Krampus,Humanoid,Unique,154, Bestiary 3
+1064,Ouroboros ,21,"Ouroboros Astral,",beast,Rare,194, Bestiary 3
+1065,Thanatotic titan ,22,Titan,Humanoid,Rare,269, Bestiary 3
+1066,Danava titan ,23,Titan,Humanoid,Rare,270, Bestiary 3
+1067,Elder wyrmwraith ,23,"Wyrmwraith Dragon,",undead,Rare,297, Bestiary 3
+1068,Green man ,24,Green man,Plant,Rare,118, Bestiary 3
+1069,Hekatonkheires titan ,24,Titan,Aberration,Rare,271, Bestiary 3

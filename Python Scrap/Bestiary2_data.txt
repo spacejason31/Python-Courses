@@ -1,0 +1,335 @@
+Compsognathus –1 Dinosaur Animal Common 80
+Crawling hand –1 Crawling hand Undead Common 56
+Raven –1 Raven Animal Common 221
+Snapping turtle –1 Turtle Animal Common 269
+Yellow musk thrall –1 Yellow musk creeper Plant Common 300
+Badger 0 Badger Animal Common 32
+Blue–ringed octopus 0 Octopus Animal Common 187
+Bottlenose dolphin 0 Dolphin Animal Common 84
+Dream spider 0 Spider Animal Common 249
+Giant maggot 0 Fly Animal Common 120
+Grindylow 0 Grindylow Aberration Common 138
+Sea snake 0 Snake Animal Common 245
+Spear frog 0 Frog Animal Common 121
+Stingray 0 Ray Animal Common 226
+Vampire squid 0 Squid Animal Common 254
+Akata 1 Akata Aberration Rare 13
+Amoeba swarm 1 Ooze Ooze Common 192
+Augur 1 Velstrac Fiend Common 280
+Brownie 1 Brownie Fey Common 44
+Carbuncle 1 Carbuncle Beast Rare 47
+Cave scorpion 1 Scorpion Animal Common 234
+Cythnigot 1 Qlippoth Fiend Uncommon 212
+Dust mephit 1 Elemental, mephit Elemental Uncommon 112
+Fetchling scout 1 Fetchling Humanoid, shadow Common 117
+Giant amoeba 1 Ooze Ooze Common 192
+Giant cockroach 1 Cockroach Animal Common 53
+Giant fly 1 Fly Animal Common 120
+Giant frog 1 Frog Animal Common 121
+Giant solifugid 1 Solifugid Animal Common 246
+Giant tick 1 Tick Animal Common 260
+Grippli scout 1 Grippli Humanoid Common 139
+Hippocampus 1 Hippocampus Animal Common 142
+Ice mephit 1 Elemental, mephit Elemental Uncommon 112
+Ifrit pyrochemist 1 Planar scion, geniekin Humanoid Common 200
+Manta ray 1 Ray Animal Common 226
+Nixie 1 Nixie Fey Common 183
+Ooze mephit 1 Elemental, mephit Elemental Uncommon 113
+Oread guard 1 Planar scion, geniekin Humanoid Common 200
+Petitioner 1 Petitioner Petitioner Common 198
+Reef octopus 1 Octopus Animal Common 187
+Skulk 1 Skulk Humanoid Common 243
+Steam mephit 1 Elemental, mephit Elemental Uncommon 113
+Suli dune danger 1 Planar scion, geniekin Humanoid Common 201
+Sunflower leshy 1 Leshy Plant Common 160
+Sylph sneak 1 Planar scion, geniekin Humanoid Common 202
+Undine hydromancer 1 Planar scion, geniekin Humanoid Common 203
+Vexgit 1 Gremlin Fey Common 134
+Void zombie 1 Void zombie Undead Rare 288
+Black bear 2 Bear Animal Common 36
+Blindheim 2 Blindheim Animal Common 39
+Blink dog 2 Blink dog Beast Uncommon 40
+Bog strider 2 Bog strider Aberration Uncommon 43
+Cave fisher 2 Cave fisher Animal Common 49
+Choker 2 Choker Aberration Common 51
+Cockroach swarm 2 Cockroach Animal Common 53
+Draugr 2 Draugr Undead Common 102
+Ember fox 2 Elemental, fire Elemental Common 110
+Giant ant 2 Ant Animal Common 20
+Giant badger 2 Badger Animal Common 32
+Giant crab 2 Crab Animal Common 55
+Giant leech 2 Leech Animal Common 156
+Giant toad 2 Toad Animal Common 261
+Hippogriff 2 Hippogriff Animal Common 143
+Icicle snake 2 Elemental, water Elemental Common 114
+Leprechaun 2 Leprechaun Fey Common 158
+Living boulder 2 Elemental, earth Elemental Common 108
+Morlock 2 Morlock Humanoid Common 174
+Mudwretch 2 Mudwretch Elemental Common 176
+Nuglub 2 Gremlin Fey Common 135
+Shadow drake 2 Drake Dragon, shadow Common 100
+Shocker lizard 2 Shocker lizard Animal Common 240
+Slime mold 2 Ooze Fungus, ooze Common 193
+Spark bat 2 Elemental, air Elemental Common 106
+Tatzlwyrm 2 Tatzlwyrm Dragon Common 256
+Triton 2 Triton Humanoid Common 263
+Wereboar 2 Werecreature Beast, humanoid Common 290
+Wolverine 2 Wolverine Animal Common 295
+Yellow musk brute 2 Yellow musk creeper Plant Common 301
+Yellow musk creeper 2 Yellow musk creeper Plant Common 300
+Zyss serpentfolk 2 Serpentfolk Humanoid Uncommon 237
+Aapoph serpentfolk 3 Serpentfolk Humanoid Uncommon 237
+Akizendri 3 Protean Monitor Common 204
+Assassin vine 3 Assassin vine Plant Common 26
+Caligni slayer 3 Caligni Humanoid Uncommon 46
+Chupacabra 3 Chupacabra Beast Common 52
+D’ziriak 3 D’ziriak Aberration, shadow Common 104
+Esobok 3 Psychopomp Monitor Common 208
+Fen mosquito swarm 3 Mosquito Animal Common 175
+Giant chameleon 3 Lizard Animal Common 168
+Giant dragonfly nymph 3 Dragonfly Animal Common 98
+Giant whiptail centipede 3 Centipede Animal Common 50
+Necrophidius 3 Necrophidius Construct Common 180
+Pachycephalosaurus 3 Dinosaur Animal Common 80
+Quickling 3 Quickling Fey Uncommon 218
+Raven swarm 3 Raven Animal Common 221
+Spriggan bully 3 Spriggan Humanoid Common 252
+Trollhound 3 Trollhound Beast Common 268
+Twigjack 3 Twigjack Fey, plant Common 270
+Urdefhan warrior 3 Urdefhan Humanoid Common 272
+Vampiric mist 3 Vampiric mist Aberration Common 278
+Violet fungus 3 Violet fungus Fungus Common 286
+Yeth hound 3 Yeth hound Beast, fiend Common 302
+Zebub 3 Devil Fiend Common 72
+Attic whisperer 4 Attic whisperer Undead Common 28
+Brood leech swarm 4 Leech Animal Common 156
+Cairn wight 4 Wight Undead Uncommon 292
+Calathgar 4 Calathgar Plant Common 45
+Carrion golem 4 Golem Construct Uncommon 128
+Coil spy 4 Serpentfolk Humanoid Uncommon 238
+Earthen destrier 4 Elemental, earth Elemental Common 108
+Filth fire 4 Elemental, fire Elemental Common 110
+Flytrap leshy 4 Leshy Plant Common 161
+Frost troll 4 Troll Giant Uncommon 264
+Giant dragonfly 4 Dragonfly Animal Common 98
+Giant wolverine 4 Wolverine Animal Common 295
+Gray ooze 4 Ooze Ooze Common 193
+Hadrosaurid 4 Dinosaur Animal Common 81
+Hound archon 4 Archon Celestial Common 22
+Kelpie 4 Kelpie Fey Common 154
+Korred 4 Korred Fey Uncommon 155
+Living thunderclap 4 Elemental, air Elemental Common 106
+Mandragora 4 Mandragora Plant Common 170
+Mist stalker 4 Elemental, water Elemental Common 114
+Peryton 4 Peryton Beast Common 197
+Rhinoceros 4 Rhinoceros Animal Common 228
+Scarecrow 4 Scarecrow Construct Common 232
+Weretiger 4 Werecreature Beast, humanoid Common 291
+Army ant swarm 5 Ant Animal Common 20
+Azuretzi 5 Protean Monitor Common 205
+Basidirond 5 Basidirond Fungus Common 34
+Bog mummy 5 Mummy Undead Common 177
+Catrina 5 Psychopomp Monitor Common 209
+Dig–widget 5 Dig–widget Construct Common 79
+Emperor cobra 5 Snake Animal Common 245
+Giant crawling hand 5 Crawling hand Undead Common 56
+Grimstalker 5 Grimstalker Fey Common 137
+Grodair 5 Grodair Beast, fey Common 140
+Hippopotamus 5 Hippopotamus Animal Common 144
+Ice golem 5 Golem Construct Uncommon 129
+Leucrotta 5 Leucrotta Beast Common 162
+Lurker in light 5 Lurker in light Fey Common 169
+Ogre spider 5 Spider Animal Common 249
+Orca 5 Dolphin Animal Common 84
+Ostiarius 5 Velstrac Fiend Common 281
+Polar bear 5 Bear Animal Common 36
+Skaveling 5 Skaveling Undead Common 241
+Urdefhan tormentor 5 Urdefhan Humanoid Common 273
+Ahuizotl 6 Ahuizotl Beast Uncommon 12
+Babau 6 Demon Fiend Common 64
+Baobhan sith 6 Baobhan sith Fey Uncommon 33
+Belker 6 Elemental, air Elemental Common 106
+Blizzardborn 6 Elemental, water Elemental Common 114
+Blodeuwedd 6 Blodeuwedd Fey, plant Uncommon 41
+Bralani 6 Azata Celestial Common 30
+Cavern troll 6 Troll Giant Uncommon 264
+Evangelist 6 Velstrac Fiend Common 281
+Fire jellyfish swarm 6 Jellyfish Animal Common 152
+Giant mosquito 6 Mosquito Animal Common 175
+Hodag 6 Hodag Beast Uncommon 145
+Iguanodon 6 Dinosaur Animal Common 82
+Lunar naga 6 Naga Aberration Uncommon 178
+Revenant 6 Revenant Undead Common 227
+Sand sentry 6 Elemental, earth Elemental Common 108
+Scythe tree 6 Scythe tree Plant Common 235
+Sea drake 6 Drake Dragon Common 101
+Skrik nettle 6 Skrik nettle Aberration Common 242
+Striding fire 6 Elemental, fire Elemental Common 111
+Verdurous ooze 6 Ooze Ooze Common 194
+Vrykolakas spawn 6 Vampire Undead Common 276
+Witchwyrd 6 Witchwyrd Humanoid Uncommon 294
+Wood giant 6 Giant Giant, humanoid Common 124
+Wood golem 6 Golem Construct Uncommon 130
+Woolly rhinoceros 6 Rhinoceros Animal Common 228
+Xill 6 Xill Aberration, ethereal Uncommon 299
+Culdewen 7 Culdewen Fey Common 57
+Drainberry bush 7 Drainberry bush Plant Common 99
+Dweomercat 7 Dweomercat Beast Uncommon 103
+Elasmosaurus 7 Elasmosaurus Animal Common 105
+Giant jellyfish 7 Jellyfish Animal Common 152
+Hellcat 7 Hellcat Beast, fiend Common 141
+Hound of Tindalos 7 Hound of Tindalos Aberration, time Rare 146
+Invidiak 7 Demon Fiend Common 65
+Megalania 7 Lizard Animal Common 168
+Sceaduinar 7 Sceaduinar Aberration, negative Rare 233
+Shoggti 7 Qlippoth Fiend Uncommon 213
+Soul eater 7 Soul eater Fiend Uncommon 247
+Spectre 7 Spectre Undead Common 248
+Sportlebore swarm 7 Sportlebore Animal Common 251
+Spriggan warlord 7 Spriggan Humanoid Common 253
+Stygira 7 Stygira Fey Common 255
+Tendriculos 7 Tendriculos Fungus, plant Common 257
+Theletos 7 Aeon Monitor Common 8
+Totenmaske 7 Totenmaske Undead Common 262
+Vanth 7 Psychopomp Monitor Common 210
+Young crystal dragon 7 Dragon, primal Dragon, elemental Uncommon 91
+Anancus 8 Elephant Animal Common 116
+Animate dream 8 Animate dream Dream Uncommon 18
+Behir 8 Behir Beast Common 38
+Bodak 8 Bodak Undead Uncommon 42
+Bone prophet 8 Serpentfolk Humanoid Uncommon 239
+Denizen of Leng 8 Denizen of Leng Aberration, dream Common 70
+Destrachan 8 Destrachan Aberration Common 71
+Giant hippocampus 8 Hippocampus Animal Uncommon 142
+Giant slug 8 Slug Animal Common 244
+Glass golem 8 Golem Construct Uncommon 131
+Gorgon 8 Gorgon Beast Uncommon 132
+Granite glyptodont 8 Elemental, earth Elemental Common 109
+Intellect devourer 8 Intellect devourer Aberration Uncommon 147
+Magma scorpion 8 Elemental, fire Elemental Common 111
+Marsh giant 8 Giant Giant, humanoid Common 125
+Mohrg 8 Mohrg Undead Common 172
+Moonflower 8 Moonflower Plant Uncommon 173
+Nabasu 8 Demon Fiend Common 65
+Onidoshi 8 Oni Fiend, giant, humanoid Common 188
+Sandpoint Devil 8 Sandpoint Devil Beast, fiend Unique 230
+Sarglagon 8 Devil Fiend Common 72
+Two–headed troll 8 Troll Giant Uncommon 265
+Young brine dragon 8 Dragon, primal Dragon, elemental Uncommon 87
+Aurumvorax 9 Aurumvorax Animal Common 29
+Dracolisk 9 Basilisk Beast, dragon Uncommon 35
+Dread wraith 9 Wraith Undead Common 298
+Giant snapping turtle 9 Turtle Animal Common 269
+Giant squid 9 Squid Animal Common 254
+Irnakurse 9 Fleshwarp Aberration Common 118
+Jyoti 9 Jyoti Humanoid, positive Common 153
+Mastodon 9 Elephant Animal Common 116
+Nuckelavee 9 Nuckelavee Fey Common 186
+Osyluth 9 Devil Fiend Common 73
+Spirit naga 9 Naga Aberration Uncommon 179
+Tick swarm 9 Tick Animal Common 260
+Titan centipede 9 Centipede Animal Common 50
+Witchfire 9 Witchfire Undead Uncommon 293
+Young magma dragon 9 Dragon, primal Dragon, elemental Uncommon 94
+Zelekhut 9 Aeon Monitor Common 9
+Bebilith 10 Bebilith Beast, fiend Common 37
+Behemoth hippopotamus 10 Hippopotamus Animal Common 144
+Ghonhatine 10 Fleshwarp Aberration Common 119
+Icewyrm 10 Elemental, water Elemental Common 115
+Imentesh 10 Protean Monitor Common 207
+Melody on the wind 10 Elemental, air Elemental Common 107
+Movanic deva 10 Angel Celestial Common 14
+Nereid 10 Nereid Fey Common 182
+Nyogoth 10 Qlippoth Fiend Uncommon 213
+Peluda 10 Peluda Dragon Common 196
+Piscodaemon 10 Daemon Fiend Common 58
+Quetz couatl 10 Couatl Beast Uncommon 54
+Sacristan 10 Velstrac Fiend Common 282
+Vrykolakas master 10 Vampire Undead Common 276
+Water orm 10 Water orm Beast Rare 289
+Young cloud dragon 10 Dragon, primal Dragon, elemental Uncommon 89
+Adult crystal dragon 11 Dragon, primal Dragon, elemental Uncommon 92
+Devourer 11 Devourer Undead Uncommon 78
+Gosreg 11 Gosreg Aberration Uncommon 133
+Hamatula 11 Devil Fiend Common 74
+Hezrou 11 Demon Fiend Common 66
+Isqulug 11 Isqulug Aberration Uncommon 149
+Meladaemon 11 Daemon Fiend Common 58
+Quoppopak 11 Quoppopak Aberration Common 219
+Spinosaurus 11 Dinosaur Animal Common 82
+Spiral centurion 11 Spiral centurion Construct Common 250
+Thunderbird 11 Thunderbird Beast Uncommon 259
+Young umbral dragon 11 Dragon, primal Dragon, shadow Uncommon 96
+Adult brine dragon 12 Dragon, primal Dragon, elemental Uncommon 87
+Athach 12 Athach Giant, humanoid Common 27
+Catoblepas 12 Catoblepas Beast Common 48
+Chernobue 12 Qlippoth Fiend Uncommon 214
+Derghodaemon 12 Daemon Fiend Common 59
+Frost worm 12 Frost worm Animal Common 123
+Interlocutor 12 Velstrac Fiend Common 283
+Monadic deva 12 Angel Celestial Common 15
+Rusalka 12 Rusalka Fey Common 229
+Taiga giant 12 Giant Giant, humanoid Common 126
+Adult magma dragon 13 Dragon, primal Dragon, elemental Uncommon 94
+Carnivorous blob 13 Ooze Ooze Common 195
+Froghemoth 13 Froghemoth Aberration Uncommon 122
+Ice yai 13 Oni Fiend, giant, humanoid Common 189
+Irlgaunt 13 Irlgaunt Aberration Common 148
+Leng spider 13 Leng spider Aberration, dream Uncommon 157
+Shadow giant 13 Giant Giant, humanoid, shadow Common 127
+Thanadaemon 13 Daemon Fiend Common 60
+Viper vine 13 Viper vine Plant Common 287
+Vrykolakas ancient 13 Vampire Undead Uncommon 277
+Adult cloud dragon 14 Dragon, primal Dragon, elemental Uncommon 90
+Ankou 14 Ankou Fey Common 19
+Augnagar 14 Qlippoth Fiend Uncommon 215
+Doprillu 14 Doprillu Aberration Common 85
+Fire yai 14 Oni Fiend, giant, humanoid Common 190
+Gylou 14 Devil Fiend Common 75
+Nalfeshnee 14 Demon Fiend Common 67
+Ravener husk 14 Ravener Dragon, undead Rare 224
+Trumpet archon 14 Archon Celestial Common 23
+Worm that walks cultist 14 Worm that walks Aberration Uncommon 297
+Adult umbral dragon 15 Dragon, primal Dragon, shadow Uncommon 96
+Black scorpion 15 Scorpion Animal Common 234
+Jotund troll 15 Troll Giant Rare 267
+Marrmora 15 Marrmora Fey Common 171
+Marut 15 Aeon Monitor Common 10
+Neothelid 15 Neothelid Aberration Uncommon 181
+Shoal linnorm 15 Linnorm Dragon Uncommon 164
+Umonlee 15 Umonlee Beast Uncommon 271
+Ancient crystal dragon 16 Dragon, primal Dragon, elemental Rare 92
+Bythos 16 Aeon Monitor Uncommon 11
+Cornugon 16 Devil Fiend Common 76
+Fjord linnorm 16 Linnorm Dragon Uncommon 165
+Planetar 16 Angel Celestial Uncommon 15
+Zomok 16 Zomok Dragon, plant Common 303
+Ancient brine dragon 17 Dragon, primal Dragon, elemental Rare 88
+Leydroth 17 Leydroth Beast Uncommon 163
+Radiant warden 17 Radiant warden Construct Uncommon 220
+Thrasfyr 17 Thrasfyr Beast Rare 258
+Vaspercham 17 Vaspercham Aberration Common 279
+Water yai 17 Oni Fiend, giant, humanoid Common 191
+Ancient magma dragon 18 Dragon, primal Dragon, elemental Rare 95
+Aolaz 18 Aolaz Construct Rare 21
+Cairn linnorm 18 Linnorm Dragon Uncommon 166
+Duneshaker solifugid 18 Solifugid Animal Common 246
+Purrodaemon 18 Daemon Fiend Common 61
+Thulgant 18 Qlippoth Fiend Uncommon 216
+Ancient cloud dragon 19 Dragon, primal Dragon, elemental Rare 90
+Grendel 19 Grendel Humanoid Unique 136
+Sard 19 Sard Plant Rare 231
+Star archon 19 Archon Celestial Common 23
+Taiga linnorm 19 Linnorm Dragon Uncommon 167
+Vrolikai 19 Demon Fiend Uncommon 68
+Ancient umbral dragon 20 Dragon, primal Dragon, shadow Rare 97
+Bastion archon 20 Archon Celestial Rare 24
+Eremite 20 Velstrac Fiend Common 284
+Norn 20 Norn Fey Rare 184
+Olethrodaemon 20 Daemon Fiend Common 63
+Veranallia 20 Azata Celestial Common 31
+Yamaraj 20 Psychopomp Monitor Uncommon 211
+Lerritan 21 Lerritan Elemental Common 159
+Ravener 21 Ravener Dragon, undead Rare 224
+Jabberwock 23 Jabberwock Dragon Rare 150
+Solar 23 Angel Celestial Rare 16
